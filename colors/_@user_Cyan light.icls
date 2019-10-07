@@ -3,7 +3,7 @@
     <property name="created">2019-10-07T10:26:15</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.1.0</property>
-    <property name="modified">2019-10-07T11:05:20</property>
+    <property name="modified">2019-10-07T11:54:39</property>
     <property name="originalScheme">Cyan light</property>
   </metaInfo>
   <colors>
@@ -49,6 +49,16 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="DEFAULT_BRACES">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_BRACKETS">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="660e7a" />
@@ -91,6 +101,12 @@
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="73e6" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARENTHS">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -307,6 +323,13 @@
       <value>
         <option name="EFFECT_COLOR" value="1eb070" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ffffff" />
+        <option name="ERROR_STRIPE_COLOR" value="ebc700" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
