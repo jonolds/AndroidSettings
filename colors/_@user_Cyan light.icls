@@ -3,7 +3,7 @@
     <property name="created">2019-10-07T10:26:15</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.1.0</property>
-    <property name="modified">2019-10-07T10:44:01</property>
+    <property name="modified">2019-10-07T11:05:20</property>
     <property name="originalScheme">Cyan light</property>
   </metaInfo>
   <colors>
@@ -44,7 +44,9 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="48003" />
+        <option name="BACKGROUND" value="dfdfdf" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -81,7 +83,9 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="48003" />
+        <option name="BACKGROUND" value="dfdfdf" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -194,8 +198,8 @@
     </option>
     <option name="LAMBDA_PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff2db5" />
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="ff4405" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="List/map to object conversion">
@@ -282,7 +286,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="262626" />
-        <option name="BACKGROUND" value="f2f3f7" />
+        <option name="BACKGROUND" value="f5f6fa" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
