@@ -1,68 +1,68 @@
 <scheme name="Default copy" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2019-10-07T10:43:04</property>
-    <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.5.1.0</property>
-    <property name="modified">2019-10-07T10:44:01</property>
-    <property name="originalScheme">_@user_Default</property>
-  </metaInfo>
-  <attributes>
-    <option name="DEFAULT_BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="48003" />
-        <option name="BACKGROUND" value="dfdfdf" />
-        <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="DEFAULT_DOC_COMMENT_TAG">
-      <value>
-        <option name="FOREGROUND" value="ee0015" />
-        <option name="BACKGROUND" value="dfdfdf" />
-        <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="808080" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
-      <value>
-        <option name="FOREGROUND" value="f60641" />
-        <option name="BACKGROUND" value="e9e9ff" />
-        <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="DEFAULT_DOC_MARKUP">
-      <value>
-        <option name="FOREGROUND" value="ee0015" />
-        <option name="BACKGROUND" value="dfdfdf" />
-        <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="DEFAULT_LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="48003" />
-        <option name="BACKGROUND" value="dfdfdf" />
-        <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="HTML_CODE">
-      <value />
-    </option>
-    <option name="KOTLIN_LABEL">
-      <value />
-    </option>
-    <option name="LAMBDA_PARAMETER_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="fff624" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="28ffe4" />
-        <option name="ERROR_STRIPE_COLOR" value="ff2dee" />
-      </value>
-    </option>
-    <option name="MATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="99ccbb" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-  </attributes>
+	<metaInfo>
+		<property name="created">2019-10-07T10:43:04</property>
+		<property name="ide">AndroidStudio</property>
+		<property name="ideVersion">3.5.1.0</property>
+		<property name="modified">2019-10-07T10:44:01</property>
+		<property name="originalScheme">_@user_Default</property>
+	</metaInfo>
+	<attributes>
+		<option name="DEFAULT_BLOCK_COMMENT">
+			<value>
+				<option name="FOREGROUND" value="48003" />
+				<option name="BACKGROUND" value="dfdfdf" />
+				<option name="FONT_TYPE" value="3" />
+			</value>
+		</option>
+		<option name="DEFAULT_DOC_COMMENT_TAG">
+			<value>
+				<option name="FOREGROUND" value="ee0015" />
+				<option name="BACKGROUND" value="dfdfdf" />
+				<option name="FONT_TYPE" value="3" />
+				<option name="EFFECT_COLOR" value="808080" />
+				<option name="EFFECT_TYPE" value="1" />
+			</value>
+		</option>
+		<option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+			<value>
+				<option name="FOREGROUND" value="f60641" />
+				<option name="BACKGROUND" value="e9e9ff" />
+				<option name="FONT_TYPE" value="3" />
+			</value>
+		</option>
+		<option name="DEFAULT_DOC_MARKUP">
+			<value>
+				<option name="FOREGROUND" value="ee0015" />
+				<option name="BACKGROUND" value="dfdfdf" />
+				<option name="FONT_TYPE" value="3" />
+			</value>
+		</option>
+		<option name="DEFAULT_LINE_COMMENT">
+			<value>
+				<option name="FOREGROUND" value="48003" />
+				<option name="BACKGROUND" value="dfdfdf" />
+				<option name="FONT_TYPE" value="3" />
+			</value>
+		</option>
+		<option name="HTML_CODE">
+			<value />
+		</option>
+		<option name="KOTLIN_LABEL">
+			<value />
+		</option>
+		<option name="LAMBDA_PARAMETER_ATTRIBUTES">
+			<value>
+				<option name="FOREGROUND" value="fff624" />
+				<option name="FONT_TYPE" value="1" />
+				<option name="EFFECT_COLOR" value="28ffe4" />
+				<option name="ERROR_STRIPE_COLOR" value="ff2dee" />
+			</value>
+		</option>
+		<option name="MATCHED_BRACE_ATTRIBUTES">
+			<value>
+				<option name="BACKGROUND" value="99ccbb" />
+				<option name="FONT_TYPE" value="1" />
+			</value>
+		</option>
+	</attributes>
 </scheme>
