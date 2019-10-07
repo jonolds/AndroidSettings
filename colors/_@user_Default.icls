@@ -3,7 +3,7 @@
     <property name="created">2019-09-24T03:58:25</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.0.21</property>
-    <property name="modified">2019-09-24T12:38:03</property>
+    <property name="modified">2019-10-07T10:19:14</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
@@ -42,6 +42,14 @@
         <option name="FOREGROUND" value="48003" />
         <option name="BACKGROUND" value="dfdfdf" />
         <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="LAMBDA_PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fff624" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="28ffe4" />
+        <option name="ERROR_STRIPE_COLOR" value="ff2dee" />
       </value>
     </option>
   </attributes>
