@@ -1,7 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
-    <notification groupId="Enable google-java-format" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Enable google-java-format" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Build (Balloon)" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="Settings Repository" shouldLog="false" />
