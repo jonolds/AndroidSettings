@@ -1,5 +1,13 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="SHOW_METHOD_CHAIN_TYPES_INLINE" value="false" />
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseMultilineComments" value="true" />
+  </component>
+  <component name="OCCodeFoldingSettings">
+    <option name="collapseMultilineComments" value="true" />
+    <option name="COLLAPSE_MULTILINE_COMMENTS" value="true" />
   </component>
 </application>
