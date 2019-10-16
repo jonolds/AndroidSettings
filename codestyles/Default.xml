@@ -6,6 +6,7 @@
   </option>
   <option name="RIGHT_MARGIN" value="130" />
   <JavaCodeStyleSettings>
+    <option name="GENERATE_FINAL_LOCALS" value="true" />
     <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
     <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
     <option name="JD_LEADING_ASTERISKS_ARE_ENABLED" value="false" />
