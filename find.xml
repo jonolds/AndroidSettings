@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\app\src\main\java\com\jon\cube\utility\Help.java [app]'" />
-    <option name="defaultScopeName" value="File '...\app\src\main\java\com\jon\cube\utility\Help.java [app]'" />
+    <option name="customScope" value="File '...\app\src\main\java\com\jon\cube\utility\Help2.kt [app]'" />
+    <option name="defaultScopeName" value="File '...\app\src\main\java\com\jon\cube\utility\Help2.kt [app]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\app\src\main\java\com\jon\cube\utility\Help.java [app]'" />
+    <option name="SEARCH_SCOPE" value="File '...\app\src\main\java\com\jon\cube\utility\Help2.kt [app]'" />
   </component>
 </application>
