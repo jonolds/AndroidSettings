@@ -3,7 +3,8 @@
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Enable google-java-format" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Build (Balloon)" shouldLog="false" />
-    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="Gradle Import" shouldLog="false" />
+    <notification groupId="Gradle Notification Group" shouldLog="false" />
     <notification groupId="Settings Repository" shouldLog="false" />
     <notification groupId="Thanks for the feedback!" shouldLog="false" />
   </component>
