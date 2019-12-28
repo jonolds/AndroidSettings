@@ -3,7 +3,7 @@
     <property name="created">2019-09-24T03:58:25</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.0.21</property>
-    <property name="modified">2019-10-07T12:19:48</property>
+    <property name="modified">2019-12-28T06:11:59</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -153,7 +153,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="fbfbfb" />
+        <option name="BACKGROUND" value="fdfdfd" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
