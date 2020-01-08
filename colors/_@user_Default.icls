@@ -3,7 +3,7 @@
     <property name="created">2019-09-24T03:58:25</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.0.21</property>
-    <property name="modified">2019-12-28T06:11:59</property>
+    <property name="modified">2020-01-07T20:29:16</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -24,8 +24,8 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="48003" />
-        <option name="BACKGROUND" value="dfdfdf" />
+        <option name="FOREGROUND" value="505ff" />
+        <option name="BACKGROUND" value="d1d1d1" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
