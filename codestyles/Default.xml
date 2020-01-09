@@ -152,16 +152,6 @@
           <rule>
             <match>
               <AND>
-                <INITIALIZER_BLOCK>true</INITIALIZER_BLOCK>
-                <STATIC>true</STATIC>
-              </AND>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
                 <FIELD>true</FIELD>
                 <FINAL>true</FINAL>
                 <PUBLIC>true</PUBLIC>
@@ -252,18 +242,17 @@
         <section>
           <rule>
             <match>
-              <AND>
-                <GETTER />
-                <METHOD>true</METHOD>
-                <PUBLIC>true</PUBLIC>
-              </AND>
+              <GETTER />
             </match>
           </rule>
         </section>
         <section>
           <rule>
             <match>
-              <SETTER />
+              <AND>
+                <SETTER />
+                <visibility />
+              </AND>
             </match>
           </rule>
         </section>
