@@ -7,6 +7,7 @@
   <option name="RIGHT_MARGIN" value="130" />
   <JavaCodeStyleSettings>
     <option name="GENERATE_FINAL_LOCALS" value="true" />
+    <option name="BLANK_LINES_AROUND_INITIALIZER" value="0" />
     <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
     <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
     <option name="JD_LEADING_ASTERISKS_ARE_ENABLED" value="false" />
@@ -30,6 +31,12 @@
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="130" />
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_BETWEEN_PACKAGE_DECLARATION_AND_HEADER" value="0" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
+    <option name="BLANK_LINES_AROUND_METHOD" value="0" />
+    <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="WRAP_COMMENTS" value="true" />
     <option name="WRAP_LONG_LINES" value="true" />
@@ -245,7 +252,11 @@
         <section>
           <rule>
             <match>
-              <GETTER />
+              <AND>
+                <GETTER />
+                <METHOD>true</METHOD>
+                <PUBLIC>true</PUBLIC>
+              </AND>
             </match>
           </rule>
         </section>
