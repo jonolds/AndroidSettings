@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Kotlin/Specify explicit lambda signature" />
+    <ignoreAction name="Java/Modifiers/Change access modifier" />
   </component>
 </application>
