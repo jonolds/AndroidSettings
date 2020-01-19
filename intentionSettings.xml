@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Kotlin/Specify explicit lambda signature" />
     <ignoreAction name="Java/Modifiers/Change access modifier" />
+    <ignoreAction name="XML/Remove attribute" />
   </component>
 </application>
