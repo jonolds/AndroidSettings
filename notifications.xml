@@ -1,10 +1,14 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false">
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
+    <notification groupId="Debugger messages" displayType="NONE" shouldLog="false" />
+    <notification groupId="Emulator" displayType="NONE" />
     <notification groupId="Enable google-java-format" displayType="NONE" shouldLog="false" />
-    <notification groupId="Gradle Build (Balloon)" shouldLog="false" />
+    <notification groupId="Gradle Build (Balloon)" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Import" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="notification.group.id.gradle" displayType="NONE" />
+    <notification groupId="Render error panel notifications" displayType="NONE" shouldLog="false" />
     <notification groupId="Settings Repository" shouldLog="false" />
     <notification groupId="Thanks for the feedback!" shouldLog="false" />
   </component>
