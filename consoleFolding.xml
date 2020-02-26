@@ -1,0 +1,15 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="2020-02-08 05:19:03.651 W: Before Android 4.1, method double java.util.concurrent.ThreadLocalRandom.internalNextDouble(double, double) would have incorrectly overridden the package-private method in java.util.Random" />
+        <option value="2020-02-08 05:19:03.651 W: Before Android 4.1, method int java.util.concurrent.ThreadLocalRandom.internalNextInt(int, int) would have incorrectly overridden the package-private method in java.util.Random" />
+        <option value="2020-02-08 05:19:03.651 W: Before Android 4.1, method long java.util.concurrent.ThreadLocalRandom.internalNextLong(long, long) would have incorrectly overridden the package-private method in java.util.Random" />
+        <option value="After code cache collection," />
+        <option value="Do partial code cache collection," />
+        <option value="Increasing code cache capacity to" />
+        <option value="Rejecting re-init on previously-failed class java.lang.Class&lt;okhttp3.internal.platform.ConscryptPlatform$configureTrustManager$1&gt;" />
+      </list>
+    </option>
+  </component>
+</application>
