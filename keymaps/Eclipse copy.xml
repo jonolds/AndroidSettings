@@ -1,0 +1,10 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+</keymap>
