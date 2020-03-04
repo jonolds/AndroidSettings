@@ -5,6 +5,7 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="130" />
+  <option name="SOFT_MARGINS" value="130" />
   <JavaCodeStyleSettings>
     <option name="GENERATE_FINAL_LOCALS" value="true" />
     <option name="BLANK_LINES_AROUND_INITIALIZER" value="0" />
