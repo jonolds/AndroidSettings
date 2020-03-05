@@ -12,7 +12,7 @@
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
     <option name="collapseAnnotations" value="true" />
-    <option name="collapseMultilineComments" value="true" />
+    <option name="collapseOneLineMethods" value="false" />
   </component>
   <component name="OCCodeFoldingSettings">
     <option name="collapseMultilineComments" value="true" />
