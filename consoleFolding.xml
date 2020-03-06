@@ -31,12 +31,14 @@
         <option value="java.lang.reflect.Method.invoke!" />
         <option value="Late-enabling -X" />
         <option value="Long monitor contention" />
+        <option value="NativeCrypto" />
         <option value="No Network Security Config specified" />
         <option value="Rejecting re-init on previously-failed class java.lang." />
         <option value="Rejecting re-init on previously-failed class java.lang.Class&lt;okhttp3.internal.platform.ConscryptPlatform$configureTrustManager$1&gt;" />
         <option value="Sending WAIT chunk" />
         <option value="Skipped" />
         <option value="Starting a blocking GC JitCodeCache" />
+        <option value="Suspending all threads took:" />
         <option value="Swap behavior" />
         <option value="system/lib/egl" />
         <option value="Unable to load JDK7" />
@@ -44,7 +46,7 @@
         <option value="ViewCompat" />
         <option value="waiting for debugger to settle..." />
         <option value="ZygoteInit.java" />
-        <option value="Suspending all threads took:" />
+        <option value="Waiting for application to come online:" />
       </list>
     </option>
   </component>
