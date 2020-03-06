@@ -2,13 +2,30 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
-        <option value="2020-02-08 05:19:03.651 W: Before Android 4.1, method double java.util.concurrent.ThreadLocalRandom.internalNextDouble(double, double) would have incorrectly overridden the package-private method in java.util.Random" />
         <option value="2020-02-08 05:19:03.651 W: Before Android 4.1, method int java.util.concurrent.ThreadLocalRandom.internalNextInt(int, int) would have incorrectly overridden the package-private method in java.util.Random" />
         <option value="2020-02-08 05:19:03.651 W: Before Android 4.1, method long java.util.concurrent.ThreadLocalRandom.internalNextLong(long, long) would have incorrectly overridden the package-private method in java.util.Random" />
         <option value="After code cache collection," />
-        <option value="Do partial code cache collection," />
+        <option value="android.app.ActivityThread." />
+        <option value="AppCompatDelegateImpl.java" />
+        <option value="Background partial concurrent" />
+        <option value="Background sticky" />
+        <option value="BaseDexClassLoader." />
+        <option value="Before Android 4.1, method" />
+        <option value="Compiler allocated" />
+        <option value="Device driver API version:" />
+        <option value="Do full code cache collection" />
+        <option value="Do partial code cache collection" />
         <option value="Increasing code cache capacity to" />
+        <option value="Initialized EGL" />
+        <option value="Late-enabling -X" />
+        <option value="Long monitor contention" />
+        <option value="Rejecting re-init on previously-failed class java.lang." />
         <option value="Rejecting re-init on previously-failed class java.lang.Class&lt;okhttp3.internal.platform.ConscryptPlatform$configureTrustManager$1&gt;" />
+        <option value="Starting a blocking GC JitCodeCache" />
+        <option value="Swap behavior" />
+        <option value="system/lib/egl" />
+        <option value="ZygoteInit.java" />
+        <option value="android.app.Instrumentation." />
       </list>
     </option>
   </component>
