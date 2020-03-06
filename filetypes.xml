@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="catalog_database" type="PLAIN_TEXT" />
       <mapping pattern="catalog_database-wal" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
