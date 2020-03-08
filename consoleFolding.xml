@@ -21,6 +21,7 @@
         <option value="Debugger has connected" />
         <option value="debugger has settled" />
         <option value="Debugger is active" />
+        <option value="Device driver API match" />
         <option value="Device driver API version:" />
         <option value="Do full code cache collection" />
         <option value="Do partial code cache collection" />
@@ -44,9 +45,10 @@
         <option value="Unable to load JDK7" />
         <option value="User space API version" />
         <option value="ViewCompat" />
+        <option value="Waiting for application to come online:" />
         <option value="waiting for debugger to settle..." />
         <option value="ZygoteInit.java" />
-        <option value="Waiting for application to come online:" />
+        <option value="REVISION=Linux" />
       </list>
     </option>
   </component>
