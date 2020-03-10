@@ -4,10 +4,10 @@
     <property name="created">2019-09-24T03:58:25</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.0.21</property>
-    <property name="modified">2020-03-09T05:04:47</property>
+    <property name="modified">2020-03-10T02:47:17</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code Medium" />
   <option name="CONSOLE_FONT_SIZE" value="9" />
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
