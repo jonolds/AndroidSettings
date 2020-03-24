@@ -1,4 +1,8 @@
 <application>
+  <component name="AndroidFoldingSettings">
+    <option name="collapseAndroidStrings" value="false" />
+    <option name="COLLAPSE_ANDROID_TEXT" value="false" />
+  </component>
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
@@ -11,7 +15,6 @@
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
-    <option name="collapseAnnotations" value="true" />
     <option name="collapseOneLineMethods" value="false" />
   </component>
   <component name="OCCodeFoldingSettings">
