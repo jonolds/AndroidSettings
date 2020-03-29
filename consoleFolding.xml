@@ -1,0 +1,26 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="After code cache collection," />
+        <option value="Debugger has connected" />
+        <option value="debugger has settled" />
+        <option value="Do full code cache collection" />
+        <option value="Do partial code cache collection" />
+        <option value="Rejecting re-init on previously-failed class java.lang.Class&lt;androidx.core.view.ViewCompat$2&gt;" />
+        <option value="Sending WAIT chunk" />
+        <option value="Starting a blocking GC" />
+        <option value="V/NativeCrypto: Registering org/conscrypt/NativeCrypto's 286 native methods..." />
+        <option value="Waiting for application to come online:" />
+        <option value="waiting for debugger to settle..." />
+        <option value="Increasing code cache capacity" />
+      </list>
+    </option>
+    <option name="removedPositive">
+      <list>
+        <option value="java.lang.reflect.Method.invoke(" />
+        <option value="java.lang.reflect.Constructor.newInstance(" />
+      </list>
+    </option>
+  </component>
+</application>
