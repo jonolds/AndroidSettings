@@ -18,4 +18,7 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="momomo.com.CloseUnlessPinned">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
 </keymap>
