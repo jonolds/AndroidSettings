@@ -2,4 +2,13 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="JAVA" value="true" />
+      </map>
+    </option>
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+  </component>
 </application>
