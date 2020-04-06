@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="EditorMatchBrace" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="ctrl t" />
@@ -10,6 +11,9 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
     <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
