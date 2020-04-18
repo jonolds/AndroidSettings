@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Try Statements/Replace catch section with throws declaration" />
+    <ignoreAction name="Java/Declaration/Add Runtime Exception to Method Signature" />
+    <ignoreAction name="Java/Annotations/Edit method contract" />
+  </component>
+</application>
