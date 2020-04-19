@@ -7,13 +7,18 @@
         <option value="debugger has settled" />
         <option value="Do full code cache collection" />
         <option value="Do partial code cache collection" />
+        <option value="EGLint new_window_surface" />
+        <option value="Increasing code cache capacity" />
+        <option value="Long monitor contention with owner ForkJoinPool.commonPool" />
+        <option value="Long monitor contention with owner OkHttp" />
         <option value="Rejecting re-init on previously-failed class java.lang.Class&lt;androidx.core.view.ViewCompat$2&gt;" />
         <option value="Sending WAIT chunk" />
         <option value="Starting a blocking GC" />
         <option value="V/NativeCrypto: Registering org/conscrypt/NativeCrypto's 286 native methods..." />
+        <option value="W: Long monitor contention with owner OkHttp https://connect.squareup.com/... (11476) at void android.security.net.config.TrustedCertificateStoreAdapter.&lt;init&gt;(android.security.net.config.NetworkSecurityConfig)(TrustedCertificateStoreAdapter.java:33) waiters=0 in android.security.net.config.NetworkSecurityTrustManager android.security.net.config.NetworkSecurityConfig.getTrustManager() for 113ms" />
         <option value="Waiting for application to come online:" />
         <option value="waiting for debugger to settle..." />
-        <option value="Increasing code cache capacity" />
+        <option value="No Network Security Config specified" />
       </list>
     </option>
     <option name="removedPositive">
