@@ -5,6 +5,8 @@
         <option value="Accessing hidden field" />
         <option value="Accessing hidden method" />
         <option value="After code cache collection," />
+        <option value="Capturing and displaying logcat messages from application. This behavior can be disabled" />
+        <option value="Davey!" />
         <option value="Debugger has connected" />
         <option value="debugger has settled" />
         <option value="Do full code cache collection" />
@@ -20,8 +22,9 @@
         <option value="V/NativeCrypto: Registering org/conscrypt/NativeCrypto's 286 native methods..." />
         <option value="W: Long monitor contention with owner OkHttp https://connect.squareup.com/... (11476) at void android.security.net.config.TrustedCertificateStoreAdapter.&lt;init&gt;(android.security.net.config.NetworkSecurityConfig)(TrustedCertificateStoreAdapter.java:33) waiters=0 in android.security.net.config.NetworkSecurityTrustManager android.security.net.config.NetworkSecurityConfig.getTrustManager() for 113ms" />
         <option value="Waiting for application to come online:" />
+        <option value="waiting for debugger to settle" />
         <option value="waiting for debugger to settle..." />
-        <option value="Davey!" />
+        <option value="Launching '" />
       </list>
     </option>
     <option name="removedPositive">
