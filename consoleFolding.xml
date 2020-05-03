@@ -26,6 +26,7 @@
         <option value="Long monitor contention with owner OkHttp" />
         <option value="nl80211:" />
         <option value="No Network Security Config specified" />
+        <option value="PhoneIntfMgr" />
         <option value="Rejecting re-init on previously-failed class java.lang.Class&lt;androidx.core.view.ViewCompat$2&gt;" />
         <option value="Sending WAIT chunk" />
         <option value="Starting a blocking GC" />
@@ -39,7 +40,7 @@
         <option value="waiting for debugger to settle" />
         <option value="waiting for debugger to settle..." />
         <option value="wlan0: WPA:" />
-        <option value="PhoneIntfMgr" />
+        <option value="uid=" />
       </list>
     </option>
     <option name="removedPositive">
