@@ -1,6 +1,20 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="Android Module Importing" displayType="NONE" />
+    <notification groupId="Automatic indent detection" displayType="NONE" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
+    <notification groupId="Compose Project Notification" displayType="NONE" />
+    <notification groupId="Debugger messages" displayType="NONE" shouldLog="false" />
+    <notification groupId="Gradle Build (Balloon)" displayType="NONE" />
+    <notification groupId="Gradle Import" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="Plugins Suggestion" displayType="NONE" />
+    <notification groupId="Plugins updates" displayType="NONE" shouldLog="false" />
+    <notification groupId="Settings Repository" displayType="NONE" />
+    <notification groupId="System Health" />
+    <notification groupId="Thanks for the feedback!" displayType="NONE" />
+    <notification groupId="Vcs Important Messages" displayType="NONE" />
+    <notification groupId="Vcs Messages" displayType="NONE" />
+    <notification groupId="Vcs Notifications" displayType="NONE" />
   </component>
 </application>
