@@ -32,6 +32,7 @@
         <option value="Starting a blocking GC" />
         <option value="stopRssiMonitoring" />
         <option value="Surface(name=AppWindowToken" />
+        <option value="uid=" />
         <option value="uid=0(root)" />
         <option value="uid=1000(system)" />
         <option value="V/NativeCrypto: Registering org/conscrypt/NativeCrypto's 286 native methods..." />
@@ -40,7 +41,7 @@
         <option value="waiting for debugger to settle" />
         <option value="waiting for debugger to settle..." />
         <option value="wlan0: WPA:" />
-        <option value="uid=" />
+        <option value="Current dex file has more than one class in it" />
       </list>
     </option>
     <option name="removedPositive">
