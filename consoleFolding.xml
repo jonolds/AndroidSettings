@@ -8,6 +8,7 @@
         <option value="After code cache collection," />
         <option value="audit(0.0:" />
         <option value="Capturing and displaying logcat messages from application. This behavior can be disabled" />
+        <option value="Current dex file has more than one class in it" />
         <option value="Davey!" />
         <option value="Debugger has connected" />
         <option value="debugger has settled" />
@@ -41,7 +42,7 @@
         <option value="waiting for debugger to settle" />
         <option value="waiting for debugger to settle..." />
         <option value="wlan0: WPA:" />
-        <option value="Current dex file has more than one class in it" />
+        <option value="ro.serialno" />
       </list>
     </option>
     <option name="removedPositive">
