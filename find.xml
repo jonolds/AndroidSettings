@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '...\app\src\main\java\com\cubeup\cube [Cube.app]'" />
-    <option name="defaultScopeName" value="Directory '...\app\src\main\java\com\cubeup\cube [Cube.app]'" />
+    <option name="customScope" value="Project 'Cube'" />
+    <option name="defaultScopeName" value="Project 'Cube'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\app\src\main\java\com\cubeup\cube [Cube.app]'" />
+    <option name="SEARCH_SCOPE" value="Project 'Cube'" />
   </component>
 </application>
