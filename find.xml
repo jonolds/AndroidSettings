@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'Cube'" />
-    <option name="defaultScopeName" value="Project 'Cube'" />
+    <option name="customScope" value="File '...\app\src\main\java\aaa\cubeup\cube\room\CubeRepo.java [app]'" />
+    <option name="defaultScopeName" value="File '...\app\src\main\java\aaa\cubeup\cube\room\CubeRepo.java [app]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Cube'" />
+    <option name="SEARCH_SCOPE" value="File '...\app\src\main\java\aaa\cubeup\cube\room\CubeRepo.java [app]'" />
   </component>
 </application>
