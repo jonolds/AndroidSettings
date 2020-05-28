@@ -1,0 +1,9 @@
+<application>
+  <component name="StructuralSearch">
+    <replaceConfiguration name="PrivateFinalToPublic" text="private final $FieldType$ $Field$;" recursive="false" caseInsensitive="true" type="JAVA" pattern_context="default" reformatAccordingToStyle="false" shortenFQN="false" replacement="public $FieldType$ $Field$;&#10;">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="FieldType" target="true" within="" contains="" />
+      <constraint name="Field" within="" contains="" />
+    </replaceConfiguration>
+  </component>
+</application>
