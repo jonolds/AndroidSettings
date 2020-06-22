@@ -2,7 +2,9 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
+        <option value="Accessing hidden field" />
         <option value="Sending WAIT chunk" />
+        <option value="Accessing hidden" />
       </list>
     </option>
   </component>
