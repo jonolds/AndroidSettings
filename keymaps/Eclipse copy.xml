@@ -1,19 +1,11 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="ActivateLogcatToolWindow">
-    <keyboard-shortcut first-keystroke="alt 6" />
-  </action>
-  <action id="ActivateTODOToolWindow" />
-  <action id="EditorMatchBrace" />
   <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f3" />
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
-    <keyboard-shortcut first-keystroke="f3" />
-  </action>
-  <action id="PinActiveTab">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
@@ -21,8 +13,5 @@
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
-  </action>
-  <action id="momomo.com.CloseUnlessPinned">
-    <mouse-shortcut keystroke="control button143" />
   </action>
 </keymap>
