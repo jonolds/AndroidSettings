@@ -2,9 +2,11 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
-        <option value="Accessing hidden field" />
-        <option value="Sending WAIT chunk" />
         <option value="Accessing hidden" />
+        <option value="Accessing hidden field" />
+        <option value="createDecorCaptionView" />
+        <option value="Sending WAIT chunk" />
+        <option value="ro.serialno" />
       </list>
     </option>
   </component>
