@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="SKIP_GETTERS" value="true" />
     <option name="WATCH_RETURN_VALUES" value="true" />
     <option name="AUTO_VARIABLES_MODE" value="true" />
     <filter>
@@ -139,6 +140,11 @@
     </filter>
     <filter>
       <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="android.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
