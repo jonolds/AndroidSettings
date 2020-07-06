@@ -6,10 +6,11 @@
         <option value="Accessing hidden field" />
         <option value="createDecorCaptionView" />
         <option value="Debugger has connected" />
+        <option value="debugger has settled" />
         <option value="ro.serialno" />
         <option value="Sending WAIT chunk" />
         <option value="waiting for debugger to settle" />
-        <option value="debugger has settled" />
+        <option value="Background concurrent" />
       </list>
     </option>
   </component>
