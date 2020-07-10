@@ -86,6 +86,7 @@
       </value>
     </option>
     <option name="WRAP_EXPRESSION_BODY_FUNCTIONS" value="1" />
+    <option name="BLANK_LINES_BEFORE_DECLARATION_WITH_COMMENT_OR_ANNOTATION_ON_SEPARATE_LINE" value="0" />
   </JetCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
