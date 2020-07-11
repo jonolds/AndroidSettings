@@ -6,8 +6,8 @@
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
-    <option name="collapseAnnotations" value="true" />
     <option name="collapseEndOfLineComments" value="true" />
-    <option name="collapseMultilineComments" value="true" />
+    <option name="collapseOneLineMethods" value="false" />
+    <option name="collapseSuppressWarnings" value="false" />
   </component>
 </application>
