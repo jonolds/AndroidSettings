@@ -52,7 +52,6 @@
     <option name="GENERATE_FINAL_LOCALS" value="true" />
     <option name="ANNOTATION_PARAMETER_WRAP" value="1" />
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
-    <option name="BLANK_LINES_AROUND_INITIALIZER" value="0" />
     <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
     <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="5" />
@@ -103,8 +102,11 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BETWEEN_PACKAGE_DECLARATION_AND_HEADER" value="0" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
-    <option name="BLANK_LINES_AROUND_METHOD" value="0" />
+    <option name="BLANK_LINES_BEFORE_IMPORTS" value="0" />
+    <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
     <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
+    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+    <option name="BLANK_LINES_BEFORE_CLASS_END" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="BINARY_OPERATION_WRAP" value="1" />
