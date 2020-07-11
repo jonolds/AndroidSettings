@@ -50,7 +50,6 @@
   </DBN-SQL>
   <JavaCodeStyleSettings>
     <option name="GENERATE_FINAL_LOCALS" value="true" />
-    <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION" value="true" />
     <option name="ANNOTATION_PARAMETER_WRAP" value="1" />
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
     <option name="BLANK_LINES_AROUND_INITIALIZER" value="0" />
@@ -71,23 +70,12 @@
   <JetCodeStyleSettings>
     <option name="PACKAGES_TO_USE_STAR_IMPORTS">
       <value>
-        <package name="java.util" alias="false" withSubpackages="false" />
-        <package name="kotlinx.android.synthetic" alias="false" withSubpackages="true" />
-        <package name="io.ktor" alias="false" withSubpackages="true" />
-      </value>
-    </option>
-    <option name="PACKAGES_IMPORT_LAYOUT">
-      <value>
-        <package name="" alias="false" withSubpackages="true" />
-        <package name="java" alias="false" withSubpackages="true" />
-        <package name="javax" alias="false" withSubpackages="true" />
-        <package name="kotlin" alias="false" withSubpackages="true" />
-        <package name="" alias="true" withSubpackages="true" />
+        <package name="java.util" withSubpackages="false" static="false" />
+        <package name="kotlinx.android.synthetic" withSubpackages="true" static="false" />
+        <package name="io.ktor" withSubpackages="true" static="false" />
       </value>
     </option>
     <option name="WRAP_EXPRESSION_BODY_FUNCTIONS" value="1" />
-    <option name="ALLOW_TRAILING_COMMA" value="true" />
-    <option name="BLANK_LINES_BEFORE_DECLARATION_WITH_COMMENT_OR_ANNOTATION_ON_SEPARATE_LINE" value="0" />
   </JetCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
@@ -129,7 +117,7 @@
     <option name="ARRAY_INITIALIZER_WRAP" value="1" />
     <option name="ASSIGNMENT_WRAP" value="1" />
     <option name="ASSERT_STATEMENT_WRAP" value="1" />
-    <option name="METHOD_ANNOTATION_WRAP" value="1" />
+    <option name="METHOD_ANNOTATION_WRAP" value="5" />
     <option name="CLASS_ANNOTATION_WRAP" value="1" />
     <option name="FIELD_ANNOTATION_WRAP" value="1" />
     <option name="ENUM_CONSTANTS_WRAP" value="1" />
