@@ -4,13 +4,14 @@
       <list>
         <option value="Accessing hidden" />
         <option value="Accessing hidden field" />
+        <option value="Background concurrent" />
         <option value="createDecorCaptionView" />
         <option value="Debugger has connected" />
         <option value="debugger has settled" />
         <option value="ro.serialno" />
         <option value="Sending WAIT chunk" />
         <option value="waiting for debugger to settle" />
-        <option value="Background concurrent" />
+        <option value="Current dex file has more than one class in it" />
       </list>
     </option>
   </component>
