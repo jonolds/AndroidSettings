@@ -17,7 +17,7 @@
     <option name="REPORT_FIELDS" value="true" />
   </inspection_tool>
   <inspection_tool class="CodeBlock2Expr" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="CompareToUsesNonFinalVariable" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="CompareToUsesNonFinalVariable" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ConditionalCanBePushedInsideExpression" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ConditionalExpression" enabled="true" level="INFORMATION" enabled_by_default="true">
     <option name="ignoreSimpleAssignmentsAndReturns" value="true" />
@@ -26,10 +26,6 @@
     <option name="reportWhenNoStatementFollow" value="true" />
   </inspection_tool>
   <inspection_tool class="ConstantConditionIf" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ConstantConditions" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="SUGGEST_NULLABLE_ANNOTATIONS" value="false" />
-    <option name="DONT_REPORT_TRUE_ASSERT_STATEMENTS" value="false" />
-  </inspection_tool>
   <inspection_tool class="Convert2Lambda" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Convert2MethodRef" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ConvertLambdaToReference" enabled="false" level="INFORMATION" enabled_by_default="false" />

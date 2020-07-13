@@ -4,7 +4,7 @@
     <property name="created">2019-10-07T10:26:15</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.1.0</property>
-    <property name="modified">2020-07-13T02:12:05</property>
+    <property name="modified">2020-07-13T02:38:45</property>
     <property name="originalScheme">Cyan light</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Fira Code SemiBold" />
@@ -204,14 +204,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="INFO_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ff1c0c" />
-        <option name="EFFECT_COLOR" value="cccccc" />
-        <option name="ERROR_STRIPE_COLOR" value="d9cfad" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="f0f0f0" />
@@ -364,8 +356,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ffecec" />
-        <option name="EFFECT_COLOR" value="50c8e" />
+        <option name="BACKGROUND" value="ffffd4" />
+        <option name="EFFECT_COLOR" value="8d8aeb" />
         <option name="ERROR_STRIPE_COLOR" value="e7d600" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
