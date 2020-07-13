@@ -1,5 +1,5 @@
 <profile version="1.0">
-  <option name="myName" value="Default" />
+  <option name="myName" value="Default copy" />
   <inspection_tool class="AndroidLintAppLinkUrlError" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="AndroidLintAutofill" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AndroidLintContentDescription" enabled="false" level="WARNING" enabled_by_default="false" />
