@@ -4,7 +4,7 @@
     <property name="created">2019-10-07T10:26:15</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.1.0</property>
-    <property name="modified">2020-07-13T02:38:45</property>
+    <property name="modified">2020-07-15T04:48:01</property>
     <property name="originalScheme">Cyan light</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Fira Code SemiBold" />
@@ -122,8 +122,8 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="bf0493" />
-        <option name="BACKGROUND" value="e8e8e8" />
+        <option name="FOREGROUND" value="fb47d6" />
+        <option name="BACKGROUND" value="efefef" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
