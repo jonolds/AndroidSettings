@@ -1,4 +1,9 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
+  </action>
+  <action id="CollapseBlock" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f3" />
     <mouse-shortcut keystroke="control button1" />
