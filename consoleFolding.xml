@@ -21,6 +21,7 @@
         <option value="uid=" />
         <option value="waiting for debugger to settle" />
         <option value="waiting for the debugger" />
+        <option value="avc: denied" />
       </list>
     </option>
   </component>
