@@ -558,7 +558,7 @@
     <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="EXTENDS_LIST_WRAP" value="1" />
-    <option name="METHOD_CALL_CHAIN_WRAP" value="2" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="ASSIGNMENT_WRAP" value="1" />
     <option name="METHOD_ANNOTATION_WRAP" value="1" />
     <option name="CLASS_ANNOTATION_WRAP" value="5" />
