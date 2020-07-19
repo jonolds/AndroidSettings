@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Cube'" />
-    <option name="defaultScopeName" value="Project 'Cube'" />
-    <option name="SEARCH_SCOPE" value="Project 'Cube'" />
+    <option name="customScope" value="File '...\app\src\main\layouts\panel_center\layout\frag_nav_3.xml [Cube.app]'" />
+    <option name="defaultScopeName" value="File '...\app\src\main\layouts\panel_center\layout\frag_nav_3.xml [Cube.app]'" />
+    <option name="SEARCH_SCOPE" value="File '...\app\src\main\layouts\panel_center\layout\frag_nav_3.xml [Cube.app]'" />
   </component>
 </application>
