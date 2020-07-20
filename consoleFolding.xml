@@ -5,6 +5,7 @@
         <option value="Accessing hidden" />
         <option value="Accessing hidden field" />
         <option value="Accessing hidden method" />
+        <option value="avc: denied" />
         <option value="avc: granted" />
         <option value="Background concurrent" />
         <option value="createDecorCaptionView" />
@@ -21,7 +22,7 @@
         <option value="uid=" />
         <option value="waiting for debugger to settle" />
         <option value="waiting for the debugger" />
-        <option value="avc: denied" />
+        <option value="WaitForGcToComplete" />
       </list>
     </option>
   </component>
