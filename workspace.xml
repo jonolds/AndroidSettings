@@ -1,0 +1,12 @@
+<application>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="annotation.hints" />
+    <settingsMapElement>
+      <JAVA.annotation.hints>
+        <Settings>
+          <option name="showExternal" value="false" />
+        </Settings>
+      </JAVA.annotation.hints>
+    </settingsMapElement>
+  </component>
+</application>
