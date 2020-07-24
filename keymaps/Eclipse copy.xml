@@ -9,8 +9,14 @@
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="GotoDeclarationOnly">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
