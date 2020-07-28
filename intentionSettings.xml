@@ -3,5 +3,6 @@
     <ignoreAction name="Android/Extract string resource" />
     <ignoreAction name="Language injection/Edit injected fragment" />
     <ignoreAction name="Language injection/Uninject language or reference" />
+    <ignoreAction name="Java/Annotations/Edit method contract" />
   </component>
 </application>
