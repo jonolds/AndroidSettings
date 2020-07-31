@@ -15,14 +15,13 @@
         <option value="ection primary" />
         <option value="fsgid=" />
         <option value="is in boot class path but is not in a known location" />
-        <option value="mapper 3.x is not supported" />
         <option value="memfd:" />
         <option value="ro.serialno" />
         <option value="Sending WAIT chunk" />
         <option value="uid=" />
+        <option value="WaitForGcToComplete" />
         <option value="waiting for debugger to settle" />
         <option value="waiting for the debugger" />
-        <option value="WaitForGcToComplete" />
       </list>
     </option>
   </component>
