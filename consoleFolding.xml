@@ -22,6 +22,7 @@
         <option value="WaitForGcToComplete" />
         <option value="waiting for debugger to settle" />
         <option value="waiting for the debugger" />
+        <option value="Waiting for a blocking GC" />
       </list>
     </option>
   </component>
