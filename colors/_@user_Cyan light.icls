@@ -4,12 +4,12 @@
     <property name="created">2019-10-07T10:26:15</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.1.0</property>
-    <property name="modified">2020-08-08T19:16:24</property>
+    <property name="modified">2020-08-08T19:29:41</property>
     <property name="originalScheme">Cyan light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Lucida Console" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu LGC Sans Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code SemiBold" />
   <option name="CONSOLE_FONT_SIZE" value="8" />
@@ -47,7 +47,7 @@
     </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="94026e" />
+        <option name="FOREGROUND" value="32a78" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -118,7 +118,8 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="570e" />
+        <option name="FOREGROUND" value="4a0c" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
