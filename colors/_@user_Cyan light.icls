@@ -4,9 +4,13 @@
     <property name="created">2019-10-07T10:26:15</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.1.0</property>
-    <property name="modified">2020-07-26T00:28:21</property>
+    <property name="modified">2020-08-08T18:53:00</property>
     <property name="originalScheme">Cyan light</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code SemiBold" />
   <option name="CONSOLE_FONT_SIZE" value="8" />
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
@@ -34,6 +38,17 @@
       <value>
         <option name="BACKGROUND" value="fae6e6" />
         <option name="ERROR_STRIPE_COLOR" value="ffc8c8" />
+      </value>
+    </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="94026e" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -65,6 +80,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="660e7a" />
@@ -86,9 +106,19 @@
         <option name="FOREGROUND" value="ab017f" />
       </value>
     </option>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="94026e" />
+      </value>
+    </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="660e7a" />
+      </value>
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="570e" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -109,9 +139,19 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="13b0a" />
+      </value>
+    </option>
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="73e6" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="3185d" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -122,8 +162,9 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="fb47d6" />
-        <option name="BACKGROUND" value="efefef" />
+        <option name="FOREGROUND" value="dc3ebb" />
+        <option name="BACKGROUND" value="ededed" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -348,6 +389,7 @@
         <option name="ERROR_STRIPE_COLOR" value="1717e6" />
       </value>
     </option>
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="1eb070" />
