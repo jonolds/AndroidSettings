@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="ENABLE_MEMORY_AGENT" value="false" />
     <option name="SKIP_GETTERS" value="true" />
     <option name="WATCH_RETURN_VALUES" value="true" />
     <option name="AUTO_VARIABLES_MODE" value="true" />
