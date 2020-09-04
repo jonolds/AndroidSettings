@@ -4,6 +4,7 @@
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Default App Only" />
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="11" />
     <option name="USE_LIGATURES" value="true" />
