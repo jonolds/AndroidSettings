@@ -144,8 +144,10 @@
     <option name="ignoreParenthesesOnConditionals" value="false" />
     <option name="ignoreParenthesesOnLambdaParameter" value="false" />
   </inspection_tool>
+  <inspection_tool class="UnusedMainParameter" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="UnusedReturnValue" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="UnusedSymbol" enabled="false" level="WARNING" enabled_by_default="false">
+  <inspection_tool class="UnusedSymbol" enabled="true" level="WARNING" enabled_by_default="true">
     <scope name="CatalogScope" level="WARNING" enabled="false" />
   </inspection_tool>
+  <inspection_tool class="WarningOnMainUnusedParameterMigration" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
 </profile>
