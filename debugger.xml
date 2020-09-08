@@ -795,6 +795,11 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ClassRenderer">
+      <option name="SHOW_DECLARED_TYPE" value="true" />
+    </Renderer>
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
