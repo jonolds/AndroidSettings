@@ -795,6 +795,12 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <option name="ALTERNATIVE_COLLECTION_VIEW_ENABLED" value="false" />
+  </component>
+  <component name="ViewsSettings">
+    <option name="POPULATE_THROWABLE_STACKTRACE" value="false" />
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
