@@ -10,19 +10,25 @@
         <option value="Background concurrent" />
         <option value="createDecorCaptionView" />
         <option value="Current dex file has more than one class in it" />
+        <option value="D/mali_winsys" />
         <option value="Debugger has connected" />
         <option value="debugger has settled" />
         <option value="ection primary" />
         <option value="fsgid=" />
+        <option value="Gralloc3" />
+        <option value="I/gralloc" />
         <option value="is in boot class path but is not in a known location" />
+        <option value="libEGL" />
         <option value="memfd:" />
+        <option value="NetworkSecurityConfig" />
         <option value="ro.serialno" />
         <option value="Sending WAIT chunk" />
         <option value="uid=" />
         <option value="WaitForGcToComplete" />
+        <option value="Waiting for a blocking GC" />
         <option value="waiting for debugger to settle" />
         <option value="waiting for the debugger" />
-        <option value="Waiting for a blocking GC" />
+        <option value="NearbyDiscovery" />
       </list>
     </option>
   </component>
