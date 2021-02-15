@@ -20,6 +20,7 @@
         <option value="is in boot class path but is not in a known location" />
         <option value="libEGL" />
         <option value="memfd:" />
+        <option value="NearbyDiscovery" />
         <option value="NetworkSecurityConfig" />
         <option value="ro.serialno" />
         <option value="Sending WAIT chunk" />
@@ -28,7 +29,7 @@
         <option value="Waiting for a blocking GC" />
         <option value="waiting for debugger to settle" />
         <option value="waiting for the debugger" />
-        <option value="NearbyDiscovery" />
+        <option value="OpenGLRenderer" />
       </list>
     </option>
   </component>
