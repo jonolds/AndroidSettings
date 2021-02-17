@@ -6,6 +6,7 @@
         <option value="Accessing hidden field" />
         <option value="Accessing hidden method" />
         <option value="Arm Module" />
+        <option value="automatic index on" />
         <option value="avc: denied" />
         <option value="avc: granted" />
         <option value="Background concurrent" />
@@ -17,8 +18,10 @@
         <option value="display: HWC" />
         <option value="ection primary" />
         <option value="EGLint" />
+        <option value="EGLNativeWindowType" />
         <option value="fsgid=" />
         <option value="Gralloc3" />
+        <option value="HWC setVsyncEnabled" />
         <option value="I/gralloc" />
         <option value="is in boot class path but is not in a known location" />
         <option value="Late-enabling -Xcheck:jni" />
@@ -37,7 +40,7 @@
         <option value="Waiting for a blocking GC" />
         <option value="waiting for debugger to settle" />
         <option value="waiting for the debugger" />
-        <option value="automatic index on" />
+        <option value="legacyui" />
       </list>
     </option>
   </component>
