@@ -16,6 +16,8 @@
     <entry key="kotlin.debugger.coroutines.standalone" value="true" />
     <entry key="kotlin.debugger.coroutines.trace" value="true" />
     <entry key="kotlin.enable.move.method.refactoring" value="true" />
+    <entry key="debugger.call.tracing" value="true" />
+    <entry key="debugger.capture.points.agent.debug" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
