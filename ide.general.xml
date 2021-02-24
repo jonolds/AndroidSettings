@@ -10,6 +10,12 @@
     <entry key="terminal.buffer.max.lines.count" value="20000" />
     <entry key="debugger.mayBringFrameToFrontOnBreakpoint" value="false" />
     <entry key="external.system.auto.import.disabled" value="true" />
+    <entry key="debugger.memory.agent.use.in.memory.view" value="true" />
+    <entry key="debugger.new.debug.tool.window.view" value="true" />
+    <entry key="debugger.new.threads.view" value="true" />
+    <entry key="kotlin.debugger.coroutines.standalone" value="true" />
+    <entry key="kotlin.debugger.coroutines.trace" value="true" />
+    <entry key="kotlin.enable.move.method.refactoring" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
