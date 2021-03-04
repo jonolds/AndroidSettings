@@ -1,7 +1,15 @@
 <application>
   <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
+    <notification groupId="Android" shouldLog="false" />
+    <notification groupId="Android Emulator Messages" shouldLog="false" />
     <notification groupId="Build Log" displayType="NONE" shouldLog="false" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
+    <notification groupId="Emulator" shouldLog="false" />
+    <notification groupId="Execution" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="LaunchTaskRunner for Run" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Run Anything" shouldLog="false" />
+    <notification groupId="Task Group" shouldLog="false" />
+    <notification groupId="Tasks" shouldLog="false" />
   </component>
 </application>
