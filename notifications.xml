@@ -4,6 +4,7 @@
     <notification groupId="Android Emulator Messages" shouldLog="false" />
     <notification groupId="Build Log" displayType="NONE" shouldLog="false" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
+    <notification groupId="Device File Explorer" shouldLog="false" />
     <notification groupId="Emulator" shouldLog="false" />
     <notification groupId="Execution" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Build (Balloon)" shouldLog="false" />
