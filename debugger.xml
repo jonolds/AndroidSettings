@@ -2,6 +2,7 @@
   <component name="DebuggerSettings">
     <option name="ENABLE_MEMORY_AGENT" value="false" />
     <option name="SKIP_GETTERS" value="true" />
+    <option name="AUTO_VARIABLES_MODE" value="true" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -805,6 +806,7 @@
     <debuggers>
       <debugger id="ObjectiveC">
         <configuration>
+          <option name="RENDERERS_ENABLED" value="false" />
           <option name="VALUES_FILTER_ENABLED" value="false" />
         </configuration>
       </debugger>
