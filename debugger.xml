@@ -801,7 +801,9 @@
     <option name="POPULATE_THROWABLE_STACKTRACE" value="false" />
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <option name="autoExpressions" value="false" />
+    </data-views>
     <general />
     <debuggers>
       <debugger id="ObjectiveC">
