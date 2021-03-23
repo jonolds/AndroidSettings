@@ -2,6 +2,7 @@
   <component name="DebuggerSettings">
     <option name="ENABLE_MEMORY_AGENT" value="false" />
     <option name="SKIP_GETTERS" value="true" />
+    <option name="WATCH_RETURN_VALUES" value="true" />
     <option name="AUTO_VARIABLES_MODE" value="true" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
@@ -796,6 +797,14 @@
   </component>
   <component name="NodeRendererSettings">
     <option name="ALTERNATIVE_COLLECTION_VIEW_ENABLED" value="false" />
+    <Renderer ID="ToStringRenderer">
+      <option name="ENABLED" value="false" />
+    </Renderer>
+  </component>
+  <component name="ThreadsViewSettings">
+    <option name="SHOW_THREAD_GROUPS" value="true" />
+    <option name="SHOW_SOURCE_NAME" value="true" />
+    <option name="SHOW_ARGUMENTS_TYPES" value="true" />
   </component>
   <component name="ViewsSettings">
     <option name="POPULATE_THROWABLE_STACKTRACE" value="false" />
