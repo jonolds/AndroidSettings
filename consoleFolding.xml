@@ -12,6 +12,7 @@
         <option value="avc: granted" />
         <option value="Background concurrent" />
         <option value="charger-&gt;cable_type" />
+        <option value="CHG_STASTUS" />
         <option value="createDecorCaptionView" />
         <option value="Current dex file has more than one class in it" />
         <option value="D/mali_winsys" />
@@ -55,7 +56,7 @@
         <option value="Waiting for a blocking GC" />
         <option value="waiting for debugger to settle" />
         <option value="waiting for the debugger" />
-        <option value="CHG_STASTUS" />
+        <option value="No carrier app for:" />
       </list>
     </option>
   </component>
