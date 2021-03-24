@@ -5,11 +5,13 @@
         <option value="Accessing hidden" />
         <option value="Accessing hidden field" />
         <option value="Accessing hidden method" />
+        <option value="Applying transforms with cached" />
         <option value="Arm Module" />
         <option value="automatic index on" />
         <option value="avc: denied" />
         <option value="avc: granted" />
         <option value="Background concurrent" />
+        <option value="charger-&gt;cable_type" />
         <option value="createDecorCaptionView" />
         <option value="Current dex file has more than one class in it" />
         <option value="D/mali_winsys" />
@@ -20,8 +22,10 @@
         <option value="ection primary" />
         <option value="EGLint" />
         <option value="EGLNativeWindowType" />
+        <option value="Finished instrumenting" />
         <option value="fsgid=" />
         <option value="Gralloc3" />
+        <option value="HV_CHARGER_STATUS(0)" />
         <option value="HWC setVsyncEnabled" />
         <option value="I/gralloc" />
         <option value="Invalid ID 0x00000000" />
@@ -30,21 +34,28 @@
         <option value="legacyui" />
         <option value="libEGL" />
         <option value="mapper 3.x" />
+        <option value="mapper 4.x" />
         <option value="memfd:" />
         <option value="NearbyDiscovery" />
         <option value="NetworkSecurityConfig" />
+        <option value="No existing instrumentation found. Loading instrumentation" />
         <option value="No Network Security Config specified" />
         <option value="OpenGLRenderer" />
+        <option value="Redefining intrinsic method" />
+        <option value="Releasing worker:" />
         <option value="ro.serialno" />
         <option value="Sending WAIT chunk" />
+        <option value="Startup agent attached" />
+        <option value="StudioProfiler" />
         <option value="StudioTransport" />
         <option value="uid=" />
         <option value="Unknown bits set in runtime_flags:" />
+        <option value="vdex files!" />
         <option value="WaitForGcToComplete" />
         <option value="Waiting for a blocking GC" />
         <option value="waiting for debugger to settle" />
         <option value="waiting for the debugger" />
-        <option value="StudioProfiler" />
+        <option value="CHG_STASTUS" />
       </list>
     </option>
   </component>
