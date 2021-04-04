@@ -14,5 +14,6 @@
     <notification groupId="Run Anything" shouldLog="false" />
     <notification groupId="Task Group" shouldLog="false" />
     <notification groupId="Tasks" shouldLog="false" />
+    <notification groupId="Terminal" displayType="TOOL_WINDOW" shouldLog="false" />
   </component>
 </application>
