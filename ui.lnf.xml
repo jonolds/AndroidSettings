@@ -1,7 +1,4 @@
 <application>
-  <component name="DependencyUISettings">
-    <option name="SCOPE_TYPE" value="file" />
-  </component>
   <component name="UISettings">
     <option name="compactTreeIndents" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="15" />
