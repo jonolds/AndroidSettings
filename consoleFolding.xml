@@ -2,7 +2,9 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
+        <option value="0x03:0x4c" />
         <option value="20838-20838/? I/TetheringManager: registerTetheringEventCallback:com.google.android.apps.walletnfcrel" />
+        <option value="3 callbacks suppressed" />
         <option value="[FG]s2mu005" />
         <option value="Accessing hidden" />
         <option value="Accessing hidden field" />
@@ -14,6 +16,7 @@
         <option value="avc: denied" />
         <option value="avc: granted" />
         <option value="Background concurrent" />
+        <option value="battery l=" />
         <option value="charger-&gt;cable_type" />
         <option value="CHG_STASTUS" />
         <option value="Chimera" />
@@ -49,6 +52,7 @@
         <option value="kworker/" />
         <option value="LanguageModel" />
         <option value="Late-enabling -Xcheck:jni" />
+        <option value="lcd_off_T" />
         <option value="legacyui" />
         <option value="libEGL" />
         <option value="mapper 3.x" />
@@ -92,7 +96,7 @@
         <option value="wificond" />
         <option value="WorkerManager" />
         <option value="Zygote" />
-        <option value="3 callbacks suppressed" />
+        <option value="swell_mode" />
       </list>
     </option>
   </component>
