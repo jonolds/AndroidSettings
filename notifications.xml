@@ -2,7 +2,7 @@
   <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
     <notification groupId="Analyze thread dump" displayType="TOOL_WINDOW" />
     <notification groupId="Android Emulator Messages" shouldLog="false" />
-    <notification groupId="Build sync orphan modules" displayType="NONE" />
+    <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Cached value profiling" />
     <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
     <notification groupId="Device File Explorer" shouldLog="false" />
@@ -10,7 +10,7 @@
     <notification groupId="Dynamic plugin installation" />
     <notification groupId="Emulator" shouldLog="false" />
     <notification groupId="Error Report" />
-    <notification groupId="Gradle Notification Group" displayType="NONE" />
+    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="LaunchTaskRunner for Run" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Run Anything" shouldLog="false" />
     <notification groupId="Terminal" displayType="TOOL_WINDOW" shouldLog="false" />
