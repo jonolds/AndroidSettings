@@ -10,6 +10,7 @@
     <notification groupId="Dynamic plugin installation" />
     <notification groupId="Emulator" shouldLog="false" />
     <notification groupId="Error Report" />
+    <notification groupId="Gradle Build (Balloon)" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="LaunchTaskRunner for Run" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Run Anything" shouldLog="false" />
