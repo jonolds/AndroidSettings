@@ -6,6 +6,7 @@
         <option value="20838-20838/? I/TetheringManager: registerTetheringEventCallback:com.google.android.apps.walletnfcrel" />
         <option value="3 callbacks suppressed" />
         <option value="[FG]s2mu005" />
+        <option value="A resource failed to call close" />
         <option value="Accessing hidden" />
         <option value="Accessing hidden field" />
         <option value="Accessing hidden method" />
@@ -105,7 +106,7 @@
         <option value="wificond" />
         <option value="WorkerManager" />
         <option value="Zygote" />
-        <option value="A resource failed to call close" />
+        <option value="Prior agent invocations in this VM" />
       </list>
     </option>
   </component>
