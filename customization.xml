@@ -1,10 +1,21 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="12">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="SearchEverywhere" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Android.MainToolBarActionGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="SearchEverywhere" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="SearchEverywhere" icon="C:/anddev/android-kotlin-fundamentals/AboutMe/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
   </component>
 </application>
