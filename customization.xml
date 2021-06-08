@@ -5,6 +5,44 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="SegmentedVcsControlAction" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Experimental toolbar" />
+      <path value="LeftToolbarSideGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RightToolbarSideGroup" is_group="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Experimental toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CenterToolbarSideGroup" is_group="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Experimental toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowProjectStructureSettings" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Experimental toolbar" />
+      <path value="LeftToolbarSideGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateDeviceFileExplorerToolWindow" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Experimental toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Experimental toolbar" />
+      <path value="LeftToolbarSideGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Experimental toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="SearchEverywhere" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -16,6 +54,41 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="SearchEverywhere" icon="C:/anddev/android-kotlin-fundamentals/AboutMe/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+    <group value="ShowColorPicker" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Experimental toolbar" />
+      <path value="LeftToolbarSideGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android.RunAndroidSdkManager" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Experimental toolbar" />
+      <path value="LeftToolbarSideGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android.RunAndroidAvdManager" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Experimental toolbar" />
+      <path value="LeftToolbarSideGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActivateDeviceFileExplorerToolWindow" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Experimental toolbar" />
+      <path value="LeftToolbarSideGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Experimental toolbar" />
+      <path value="LeftToolbarSideGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="StateWidgetAction" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Experimental toolbar" />
+      <path value="LeftToolbarSideGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
   </component>
 </application>
