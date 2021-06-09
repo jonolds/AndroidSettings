@@ -15,6 +15,7 @@
     <entry key="ide.instant.shutdown" value="false" />
     <entry key="clion.clang.clangd.thread.pool" value="true" />
     <entry key="core.pooled.threads" value="80" />
+    <entry key="caches.indexerThreadsCount" value="6" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
