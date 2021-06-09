@@ -27,7 +27,7 @@
       <path value="LeftToolbarSideGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ShowLog" is_action="true" action_type="1" position="1">
+    <group value="ActivateDeviceFileExplorerToolWindow" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Experimental toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -38,7 +38,7 @@
       <path value="LeftToolbarSideGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ActivateDeviceFileExplorerToolWindow" is_action="true" action_type="1" position="2">
+    <group value="ShowLog" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Experimental toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -49,7 +49,7 @@
       <path value="Android.MainToolBarActionGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="3">
+    <group value="Gradle.ShowDaemons" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Experimental toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -59,10 +59,25 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Experimental toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ShowColorPicker" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Experimental toolbar" />
       <path value="LeftToolbarSideGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Experimental toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Experimental toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Android.RunAndroidSdkManager" is_action="true" action_type="1" position="6">
