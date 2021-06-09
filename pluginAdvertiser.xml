@@ -19,7 +19,7 @@
                   </entry>
                   <entry key="AppEngineRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="App Engine DevAppServer" pluginName="Google Cloud Tools For Android Studio" pluginId="com.google.gct" />
+                      <FeaturePluginData displayName="App Engine DevAppServer" pluginName="Google Cloud Tools For Android Studio" pluginId="com.google.gct" bundled="true" />
                     </value>
                   </entry>
                   <entry key="Application">
@@ -124,7 +124,7 @@
                   </entry>
                   <entry key="app-engine-gradle">
                     <value>
-                      <FeaturePluginData displayName="App Engine Gradle" pluginName="Google Cloud Tools For Android Studio" pluginId="com.google.gct" />
+                      <FeaturePluginData displayName="App Engine Gradle" pluginName="Google Cloud Tools For Android Studio" pluginId="com.google.gct" bundled="true" />
                     </value>
                   </entry>
                   <entry key="java-gradle">
