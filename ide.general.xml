@@ -11,7 +11,6 @@
     <entry key="debugger.mayBringFrameToFrontOnBreakpoint" value="false" />
     <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="kotlin.enable.move.method.refactoring" value="true" />
-    <entry key="ide.new.navbar" value="true" />
     <entry key="ide.instant.shutdown" value="false" />
   </component>
   <component name="StatusBar">
