@@ -7,7 +7,6 @@
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
-    <entry key="terminal.buffer.max.lines.count" value="20000" />
     <entry key="debugger.mayBringFrameToFrontOnBreakpoint" value="false" />
     <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="kotlin.enable.move.method.refactoring" value="true" />
