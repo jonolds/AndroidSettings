@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ML Kit Vision Quickstart'" />
-    <option name="defaultScopeName" value="Project 'ML Kit Vision Quickstart'" />
-    <option name="SEARCH_SCOPE" value="Project 'ML Kit Vision Quickstart'" />
+    <option name="customScope" value="Project 'Clubhouse'" />
+    <option name="defaultScopeName" value="Project 'Clubhouse'" />
+    <option name="SEARCH_SCOPE" value="Project 'Clubhouse'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
