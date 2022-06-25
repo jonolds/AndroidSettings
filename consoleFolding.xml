@@ -10,6 +10,7 @@
         <option value="Accessing hidden" />
         <option value="Accessing hidden field" />
         <option value="Accessing hidden method" />
+        <option value="ActivityThread" />
         <option value="adbd" />
         <option value="AODBatteryManager" />
         <option value="AppIconSolution" />
@@ -41,6 +42,7 @@
         <option value="Davey!" />
         <option value="Debugger has connected" />
         <option value="debugger has settled" />
+        <option value="DecorView" />
         <option value="DeviceManager_FLP" />
         <option value="DeviceStorageMonitorService" />
         <option value="display: HWC" />
@@ -71,6 +73,8 @@
         <option value="I/gralloc" />
         <option value="I/IpcDispatcher" />
         <option value="Icing" />
+        <option value="InputMethodManager" />
+        <option value="InputTransport" />
         <option value="Invalid ID 0x00000000" />
         <option value="io_stats" />
         <option value="IpcDispatcher" />
@@ -81,6 +85,7 @@
         <option value="lcd_off_T" />
         <option value="legacyui" />
         <option value="libEGL" />
+        <option value="LoadedApk" />
         <option value="LocationManagerService" />
         <option value="mapper 3.x" />
         <option value="mapper 4.x" />
@@ -109,6 +114,7 @@
         <option value="PowerManagerService" />
         <option value="PowerUI" />
         <option value="Prior agent invocations in this VM" />
+        <option value="ProfileInstaller" />
         <option value="Redefining intrinsic method" />
         <option value="Releasing worker:" />
         <option value="ro.serialno" />
@@ -136,6 +142,7 @@
         <option value="uid=" />
         <option value="Unknown bits set in runtime_flags:" />
         <option value="vdex files!" />
+        <option value="ViewRootImpl" />
         <option value="WaitForGcToComplete" />
         <option value="Waiting for a blocking GC" />
         <option value="waiting for debugger to settle" />
@@ -147,7 +154,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="ViewRootImpl" />
+        <option value="hasWindowControllerCallback" />
       </list>
     </option>
   </component>
