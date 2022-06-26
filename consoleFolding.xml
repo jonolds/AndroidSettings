@@ -65,6 +65,7 @@
         <option value="GpsSessionManager_FLP" />
         <option value="Gralloc3" />
         <option value="GsaVoiceInteractionSrv" />
+        <option value="hasWindowControllerCallback" />
         <option value="healthd:" />
         <option value="HotspotController" />
         <option value="HV_CHARGER_STATUS(0)" />
@@ -154,7 +155,6 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="hasWindowControllerCallback" />
       </list>
     </option>
   </component>
