@@ -12,8 +12,11 @@
         <option value="Accessing hidden method" />
         <option value="ActivityThread" />
         <option value="adbd" />
+        <option value="AdrenoGLES-0" />
+        <option value="AdrenoGLES-0: QUALCOMM build" />
         <option value="AODBatteryManager" />
         <option value="AppIconSolution" />
+        <option value="ApplicationLoaders" />
         <option value="Applying transforms with cached" />
         <option value="Arm Module" />
         <option value="automatic index on" />
@@ -26,6 +29,7 @@
         <option value="BatteryStatsService" />
         <option value="BlockingConnectionAdapter" />
         <option value="BluetoothAdapter" />
+        <option value="Build Date" />
         <option value="CAR." />
         <option value="charger-&gt;cable_type" />
         <option value="ChargingInfoManager" />
@@ -33,7 +37,9 @@
         <option value="Chimera" />
         <option value="ChimeRegistrationWorker" />
         <option value="Choreographer" />
+        <option value="ClampGrowthLimit" />
         <option value="ClosedLoopHceMigrat" />
+        <option value="Connecting to perf service" />
         <option value="Conscrypt" />
         <option value="ContactsProvider_EventLog" />
         <option value="createDecorCaptionView" />
@@ -86,7 +92,9 @@
         <option value="lcd_off_T" />
         <option value="legacyui" />
         <option value="libEGL" />
+        <option value="libprocessgroup" />
         <option value="LoadedApk" />
+        <option value="Local Branch" />
         <option value="LocationManagerService" />
         <option value="mapper 3.x" />
         <option value="mapper 4.x" />
@@ -106,7 +114,10 @@
         <option value="No Network Security Config specified" />
         <option value="NotificationHistory" />
         <option value="NotificationListener" />
+        <option value="OnePlusFontConfig" />
+        <option value="OpenGL ES Shader" />
         <option value="OpenGLRenderer" />
+        <option value="OPFD_Manager" />
         <option value="PG:" />
         <option value="Phenotype" />
         <option value="PhoneInterfaceManager" />
@@ -116,8 +127,10 @@
         <option value="PowerUI" />
         <option value="Prior agent invocations in this VM" />
         <option value="ProfileInstaller" />
+        <option value="Reconstruct Branch" />
         <option value="Redefining intrinsic method" />
         <option value="Releasing worker:" />
+        <option value="Remote Branch" />
         <option value="ro.serialno" />
         <option value="SamsungAlarmManager" />
         <option value="SAProfile" />
@@ -138,6 +151,7 @@
         <option value="swell_mode" />
         <option value="SyncManager" />
         <option value="SystemJobService" />
+        <option value="tb_ctl" />
         <option value="Telecom" />
         <option value="Telephony" />
         <option value="uid=" />
@@ -155,6 +169,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
+        <option value="Connected to process" />
       </list>
     </option>
   </component>
