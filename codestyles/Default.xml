@@ -130,10 +130,7 @@
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_WRAP" value="1" />
     <option name="ASSERT_STATEMENT_WRAP" value="1" />
-    <option name="METHOD_ANNOTATION_WRAP" value="1" />
-    <option name="CLASS_ANNOTATION_WRAP" value="1" />
-    <option name="FIELD_ANNOTATION_WRAP" value="1" />
-    <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
+    <option name="VARIABLE_ANNOTATION_WRAP" value="2" />
     <option name="ENUM_CONSTANTS_WRAP" value="1" />
     <option name="SOFT_MARGINS" value="150" />
     <indentOptions>
@@ -559,11 +556,8 @@
     <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
-    <option name="METHOD_ANNOTATION_WRAP" value="1" />
-    <option name="CLASS_ANNOTATION_WRAP" value="5" />
-    <option name="FIELD_ANNOTATION_WRAP" value="1" />
     <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
-    <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
+    <option name="VARIABLE_ANNOTATION_WRAP" value="2" />
     <option name="ENUM_CONSTANTS_WRAP" value="1" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
