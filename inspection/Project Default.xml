@@ -42,6 +42,7 @@
   <inspection_tool class="ExcessiveLambdaUsage" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ExplicitThis" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="FieldCanBeLocal" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="FieldMayBeFinal" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="FieldMayBeStatic" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="FoldInitializerAndIfToElvis" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="FunctionName" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -148,4 +149,5 @@
     <option name="ignoreParenthesesOnLambdaParameter" value="false" />
   </inspection_tool>
   <inspection_tool class="UnusedReturnValue" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="XmlUnusedNamespaceDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
 </profile>
