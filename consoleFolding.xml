@@ -39,6 +39,7 @@
         <option value="Choreographer" />
         <option value="ClampGrowthLimit" />
         <option value="ClosedLoopHceMigrat" />
+        <option value="Connected to process" />
         <option value="Connecting to perf service" />
         <option value="Conscrypt" />
         <option value="ContactsProvider_EventLog" />
@@ -169,7 +170,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="Connected to process" />
+        <option value="OptJank" />
       </list>
     </option>
   </component>
