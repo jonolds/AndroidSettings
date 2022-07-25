@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ApiTemp'" />
-    <option name="defaultScopeName" value="Project 'ApiTemp'" />
-    <option name="SEARCH_SCOPE" value="Project 'ApiTemp'" />
+    <option name="customScope" value="Directory '…\app\src\main\kotlin [ApiTemp.app.main]'" />
+    <option name="defaultScopeName" value="Directory '…\app\src\main\kotlin [ApiTemp.app.main]'" />
+    <option name="SEARCH_SCOPE" value="Directory '…\app\src\main\kotlin [ApiTemp.app.main]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
