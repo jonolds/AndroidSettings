@@ -119,6 +119,7 @@
         <option value="OpenGL ES Shader" />
         <option value="OpenGLRenderer" />
         <option value="OPFD_Manager" />
+        <option value="OptJank" />
         <option value="PG:" />
         <option value="Phenotype" />
         <option value="PhoneInterfaceManager" />
@@ -170,7 +171,6 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="OptJank" />
       </list>
     </option>
   </component>
