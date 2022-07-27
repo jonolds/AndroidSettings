@@ -144,6 +144,7 @@
         <option value="Sending WAIT chunk" />
         <option value="ShortcutsDataManager" />
         <option value="slsi_mlme_get_sinfo_mib" />
+        <option value="SQLiteEventStore" />
         <option value="ssioncontrolle" />
         <option value="Startup agent attached" />
         <option value="StudioProfiler" />
@@ -171,6 +172,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
+        <option value="JobInfoScheduler" />
       </list>
     </option>
   </component>
