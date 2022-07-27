@@ -87,6 +87,7 @@
         <option value="io_stats" />
         <option value="IpcDispatcher" />
         <option value="is in boot class path but is not in a known location" />
+        <option value="JobInfoScheduler" />
         <option value="kworker/" />
         <option value="LanguageModel" />
         <option value="Late-enabling -Xcheck:jni" />
@@ -172,7 +173,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="JobInfoScheduler" />
+        <option value="TetheringManager" />
       </list>
     </option>
   </component>
