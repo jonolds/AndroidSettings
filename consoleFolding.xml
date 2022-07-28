@@ -158,6 +158,7 @@
         <option value="tb_ctl" />
         <option value="Telecom" />
         <option value="Telephony" />
+        <option value="TetheringManager" />
         <option value="uid=" />
         <option value="Unknown bits set in runtime_flags:" />
         <option value="vdex files!" />
@@ -173,7 +174,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="TetheringManager" />
+        <option value="sqlite3_android" />
       </list>
     </option>
   </component>
