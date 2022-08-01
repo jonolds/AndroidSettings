@@ -11,6 +11,7 @@
         <option value="Accessing hidden field" />
         <option value="Accessing hidden method" />
         <option value="ActivityThread" />
+        <option value="adb shell am start -n" />
         <option value="adbd" />
         <option value="AdrenoGLES-0" />
         <option value="AdrenoGLES-0: QUALCOMM build" />
@@ -30,6 +31,7 @@
         <option value="BlockingConnectionAdapter" />
         <option value="BluetoothAdapter" />
         <option value="Build Date" />
+        <option value="Capturing and displaying logcat messages from application." />
         <option value="CAR." />
         <option value="charger-&gt;cable_type" />
         <option value="ChargingInfoManager" />
@@ -81,6 +83,7 @@
         <option value="I/gralloc" />
         <option value="I/IpcDispatcher" />
         <option value="Icing" />
+        <option value="IInputConnectionWrapper" />
         <option value="InputMethodManager" />
         <option value="InputTransport" />
         <option value="Invalid ID 0x00000000" />
@@ -145,6 +148,7 @@
         <option value="Sending WAIT chunk" />
         <option value="ShortcutsDataManager" />
         <option value="slsi_mlme_get_sinfo_mib" />
+        <option value="sqlite3_android" />
         <option value="SQLiteEventStore" />
         <option value="ssioncontrolle" />
         <option value="Startup agent attached" />
@@ -174,7 +178,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="sqlite3_android" />
+        <option value="Open /data/app/~~" />
       </list>
     </option>
   </component>
