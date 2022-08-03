@@ -43,6 +43,7 @@
         <option value="ChimeRegistrationWorker" />
         <option value="Choreographer" />
         <option value="ClampGrowthLimit" />
+        <option value="ClassLoader referenced unknown path" />
         <option value="ClosedLoopHceMigrat" />
         <option value="Connected to process" />
         <option value="Connecting to camera service" />
@@ -187,7 +188,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="ClassLoader referenced unknown path" />
+        <option value="Checking for metadata for AppLocalesMetadataHolderService" />
       </list>
     </option>
   </component>
