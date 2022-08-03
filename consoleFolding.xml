@@ -6,7 +6,9 @@
         <option value="20838-20838/? I/TetheringManager: registerTetheringEventCallback:com.google.android.apps.walletnfcrel" />
         <option value="3 callbacks suppressed" />
         <option value="[FG]s2mu005" />
+        <option value="[soar.cts] ignore the status update of camera" />
         <option value="A resource failed to call close" />
+        <option value="Access denied finding property &quot;persist.vendor.camera.privapp.list&quot;" />
         <option value="Accessing hidden" />
         <option value="Accessing hidden field" />
         <option value="Accessing hidden method" />
@@ -15,6 +17,7 @@
         <option value="adbd" />
         <option value="AdrenoGLES-0" />
         <option value="AdrenoGLES-0: QUALCOMM build" />
+        <option value="allocator 3.x" />
         <option value="AODBatteryManager" />
         <option value="AppIconSolution" />
         <option value="ApplicationLoaders" />
@@ -42,6 +45,7 @@
         <option value="ClampGrowthLimit" />
         <option value="ClosedLoopHceMigrat" />
         <option value="Connected to process" />
+        <option value="Connecting to camera service" />
         <option value="Connecting to perf service" />
         <option value="Conscrypt" />
         <option value="ContactsProvider_EventLog" />
@@ -52,6 +56,8 @@
         <option value="Debugger has connected" />
         <option value="debugger has settled" />
         <option value="DecorView" />
+        <option value="Device Level: INFO_SUPPORTED_HARDWARE_LEVEL_FULL" />
+        <option value="Device Level: INFO_SUPPORTED_HARDWARE_LEVEL_LIMITED" />
         <option value="DeviceManager_FLP" />
         <option value="DeviceStorageMonitorService" />
         <option value="display: HWC" />
@@ -86,6 +92,7 @@
         <option value="IInputConnectionWrapper" />
         <option value="InputMethodManager" />
         <option value="InputTransport" />
+        <option value="Install successfully finished in" />
         <option value="Invalid ID 0x00000000" />
         <option value="io_stats" />
         <option value="IpcDispatcher" />
@@ -119,6 +126,7 @@
         <option value="No Network Security Config specified" />
         <option value="NotificationHistory" />
         <option value="NotificationListener" />
+        <option value="on OnePlus ONEPLUS A6013." />
         <option value="OnePlusFontConfig" />
         <option value="Open /data/app/~~" />
         <option value="OpenGL ES Shader" />
@@ -179,7 +187,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="allocator 3.x" />
+        <option value="ClassLoader referenced unknown path" />
       </list>
     </option>
   </component>
