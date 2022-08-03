@@ -120,6 +120,7 @@
         <option value="NotificationHistory" />
         <option value="NotificationListener" />
         <option value="OnePlusFontConfig" />
+        <option value="Open /data/app/~~" />
         <option value="OpenGL ES Shader" />
         <option value="OpenGLRenderer" />
         <option value="OPFD_Manager" />
@@ -178,7 +179,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="Open /data/app/~~" />
+        <option value="allocator 3.x" />
       </list>
     </option>
   </component>
