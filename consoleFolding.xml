@@ -38,6 +38,7 @@
         <option value="CAR." />
         <option value="charger-&gt;cable_type" />
         <option value="ChargingInfoManager" />
+        <option value="Checking for metadata for AppLocalesMetadataHolderService" />
         <option value="CHG_STASTUS" />
         <option value="Chimera" />
         <option value="ChimeRegistrationWorker" />
@@ -188,7 +189,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="Checking for metadata for AppLocalesMetadataHolderService" />
+        <option value="Invalid ID 0x0000" />
       </list>
     </option>
   </component>
