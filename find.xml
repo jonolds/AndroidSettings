@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ClubhouseXML'" />
-    <option name="defaultScopeName" value="Project 'ClubhouseXML'" />
-    <option name="SEARCH_SCOPE" value="Project 'ClubhouseXML'" />
+    <option name="customScope" value="Project 'Camera2Basic'" />
+    <option name="defaultScopeName" value="Project 'Camera2Basic'" />
+    <option name="SEARCH_SCOPE" value="Project 'Camera2Basic'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
