@@ -95,6 +95,7 @@
         <option value="InputMethodManager" />
         <option value="InputTransport" />
         <option value="Install successfully finished in" />
+        <option value="Invalid ID 0x0000" />
         <option value="Invalid ID 0x00000000" />
         <option value="io_stats" />
         <option value="IpcDispatcher" />
@@ -189,7 +190,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="Invalid ID 0x0000" />
+        <option value="CompatibilityChangeReporter: Compat change id reported" />
       </list>
     </option>
   </component>
