@@ -191,6 +191,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
+        <option value="SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length" />
       </list>
     </option>
   </component>
