@@ -46,6 +46,7 @@
         <option value="ClampGrowthLimit" />
         <option value="ClassLoader referenced unknown path" />
         <option value="ClosedLoopHceMigrat" />
+        <option value="CompatibilityChangeReporter: Compat change id reported" />
         <option value="Connected to process" />
         <option value="Connecting to camera service" />
         <option value="Connecting to perf service" />
@@ -190,7 +191,6 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="CompatibilityChangeReporter: Compat change id reported" />
       </list>
     </option>
   </component>
