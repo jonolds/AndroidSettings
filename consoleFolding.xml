@@ -137,6 +137,7 @@
         <option value="OpenGLRenderer" />
         <option value="OPFD_Manager" />
         <option value="OptJank" />
+        <option value="OverScroller: setting mVelocityAccuCount" />
         <option value="PG:" />
         <option value="Phenotype" />
         <option value="PhoneInterfaceManager" />
@@ -192,7 +193,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="OverScroller: setting mVelocityAccuCount" />
+        <option value="Reducing the number of considered missed Gc histogram windows" />
       </list>
     </option>
   </component>
