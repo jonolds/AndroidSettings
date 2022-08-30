@@ -4,7 +4,6 @@
     <notification groupId="Android Emulator Messages" shouldLog="false" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Cached value profiling" />
-    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
     <notification groupId="Device File Explorer" shouldLog="false" />
     <notification groupId="Dump Threads Group" />
     <notification groupId="Dynamic plugin installation" />
