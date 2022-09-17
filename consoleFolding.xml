@@ -154,6 +154,7 @@
         <option value="Reconstruct Branch" />
         <option value="Redefining intrinsic method" />
         <option value="Reducing the number of considered missed Gc histogram windows" />
+        <option value="RegisterTcmMonitor" />
         <option value="Releasing worker:" />
         <option value="Remote Branch" />
         <option value="ro.serialno" />
@@ -198,7 +199,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="RegisterTcmMonitor" />
+        <option value="AutofillManager: Hidding UI when view" />
       </list>
     </option>
   </component>
