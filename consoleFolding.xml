@@ -45,6 +45,7 @@
         <option value="Choreographer" />
         <option value="ClampGrowthLimit" />
         <option value="ClassLoader referenced unknown path" />
+        <option value="ClassLoaderContext classpath size mismatch" />
         <option value="ClosedLoopHceMigrat" />
         <option value="CompatibilityChangeReporter: Compat change id reported" />
         <option value="Connected to process" />
@@ -76,6 +77,8 @@
         <option value="Finsky" />
         <option value="Flattened final assist data:" />
         <option value="FolderIconView" />
+        <option value="Found duplicate classes, falling back" />
+        <option value="Found duplicated class when checking oat files" />
         <option value="fsgid=" />
         <option value="getUsedF2fsFileNode" />
         <option value="GmsCoreXrpcWrapper" />
@@ -128,6 +131,7 @@
         <option value="No carrier app for:" />
         <option value="No existing instrumentation found. Loading instrumentation" />
         <option value="No Network Security Config specified" />
+        <option value="NOTE: This wastes RAM and hurts startup performance" />
         <option value="NotificationHistory" />
         <option value="NotificationListener" />
         <option value="on OnePlus ONEPLUS A6013." />
@@ -149,6 +153,8 @@
         <option value="ProfileInstaller" />
         <option value="Reconstruct Branch" />
         <option value="Redefining intrinsic method" />
+        <option value="Reducing the number of considered missed Gc histogram windows" />
+        <option value="RegisterTcmMonitor" />
         <option value="Releasing worker:" />
         <option value="Remote Branch" />
         <option value="ro.serialno" />
@@ -193,7 +199,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="Reducing the number of considered missed Gc histogram windows" />
+        <option value="AutofillManager: Hidding UI when view" />
       </list>
     </option>
   </component>
