@@ -23,6 +23,7 @@
         <option value="ApplicationLoaders" />
         <option value="Applying transforms with cached" />
         <option value="Arm Module" />
+        <option value="AutofillManager: Hidding UI when view" />
         <option value="automatic index on" />
         <option value="avc:  denied" />
         <option value="avc: denied" />
@@ -48,6 +49,7 @@
         <option value="ClassLoaderContext classpath size mismatch" />
         <option value="ClosedLoopHceMigrat" />
         <option value="CompatibilityChangeReporter: Compat change id reported" />
+        <option value="Compiler allocated" />
         <option value="Connected to process" />
         <option value="Connecting to camera service" />
         <option value="Connecting to perf service" />
@@ -121,6 +123,7 @@
         <option value="memfd:" />
         <option value="MicroDetectionState" />
         <option value="MotionRecognitionService" />
+        <option value="NativeAlloc concurrent copying GC freed" />
         <option value="NearbyDiscovery" />
         <option value="Netd" />
         <option value="NetworkManagementSocketTagger" />
@@ -199,7 +202,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="AutofillManager: Hidding UI when view" />
+        <option value="Background young concurrent" />
       </list>
     </option>
   </component>
