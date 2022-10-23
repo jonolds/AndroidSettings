@@ -2,6 +2,7 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
+        <option value="/system/framework/com.android.media.remotedisplay" />
         <option value="0x03:0x4c" />
         <option value="20838-20838/? I/TetheringManager: registerTetheringEventCallback:com.google.android.apps.walletnfcrel" />
         <option value="3 callbacks suppressed" />
@@ -29,6 +30,7 @@
         <option value="avc: denied" />
         <option value="avc: granted" />
         <option value="Background concurrent" />
+        <option value="Background young concurrent" />
         <option value="battery l=" />
         <option value="BatteryExternalStatsWorker" />
         <option value="BatteryStatsService" />
@@ -202,7 +204,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="Background young concurrent" />
+        <option value="/system/framework/com.android.location.provider" />
       </list>
     </option>
   </component>
