@@ -50,6 +50,7 @@
         <option value="ClampGrowthLimit" />
         <option value="ClassLoader referenced unknown path" />
         <option value="ClassLoaderContext classpath size mismatch" />
+        <option value="clearPipelineWithNode" />
         <option value="ClosedLoopHceMigrat" />
         <option value="CompatibilityChangeReporter: Compat change id reported" />
         <option value="Compiler allocated" />
@@ -82,6 +83,7 @@
         <option value="Finished instrumenting" />
         <option value="Finsky" />
         <option value="Flattened final assist data:" />
+        <option value="Focus: Owner FocusChanged" />
         <option value="FolderIconView" />
         <option value="Found duplicate classes, falling back" />
         <option value="Found duplicated class when checking oat files" />
@@ -209,7 +211,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="clearPipelineWithNode" />
+        <option value="A resource failed to call release" />
       </list>
     </option>
   </component>
