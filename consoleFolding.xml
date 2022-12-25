@@ -10,6 +10,7 @@
         <option value="[FG]s2mu005" />
         <option value="[soar.cts] ignore the status update of camera" />
         <option value="A resource failed to call close" />
+        <option value="A resource failed to call release" />
         <option value="Access denied finding property &quot;persist.vendor.camera.privapp.list&quot;" />
         <option value="Accessing hidden" />
         <option value="Accessing hidden field" />
@@ -211,7 +212,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="A resource failed to call release" />
+        <option value="Performing LoadStateAndCompose" />
       </list>
     </option>
   </component>
