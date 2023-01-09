@@ -212,6 +212,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
+        <option value="[GL_OOM] ClearGrowthLimit" />
       </list>
     </option>
   </component>
