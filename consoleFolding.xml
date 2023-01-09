@@ -153,6 +153,7 @@
         <option value="OPFD_Manager" />
         <option value="OptJank" />
         <option value="OverScroller: setting mVelocityAccuCount" />
+        <option value="Performing LoadStateAndCompose" />
         <option value="PG:" />
         <option value="Phenotype" />
         <option value="PhoneInterfaceManager" />
@@ -197,7 +198,6 @@
         <option value="Telecom" />
         <option value="Telephony" />
         <option value="TetheringManager" />
-        <option value="uid=" />
         <option value="Unknown bits set in runtime_flags:" />
         <option value="vdex files!" />
         <option value="ViewRootImpl" />
@@ -212,7 +212,6 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="Performing LoadStateAndCompose" />
       </list>
     </option>
   </component>
