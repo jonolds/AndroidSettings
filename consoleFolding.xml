@@ -8,6 +8,7 @@
         <option value="20838-20838/? I/TetheringManager: registerTetheringEventCallback:com.google.android.apps.walletnfcrel" />
         <option value="3 callbacks suppressed" />
         <option value="[FG]s2mu005" />
+        <option value="[GL_OOM] ClearGrowthLimit" />
         <option value="[soar.cts] ignore the status update of camera" />
         <option value="A resource failed to call close" />
         <option value="A resource failed to call release" />
@@ -212,7 +213,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="[GL_OOM] ClearGrowthLimit" />
+        <option value="uid=10715(com.jonolds.clubhousexml) identical" />
       </list>
     </option>
   </component>
