@@ -199,6 +199,7 @@
         <option value="Telecom" />
         <option value="Telephony" />
         <option value="TetheringManager" />
+        <option value="uid=10715(com.jonolds.clubhousexml) identical" />
         <option value="Unknown bits set in runtime_flags:" />
         <option value="vdex files!" />
         <option value="ViewRootImpl" />
@@ -213,7 +214,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="uid=10715(com.jonolds.clubhousexml) identical" />
+        <option value="(com.jonolds.clubhousexml) identical" />
       </list>
     </option>
   </component>
