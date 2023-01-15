@@ -4,7 +4,6 @@
   </component>
   <component name="UISettings">
     <option name="compactTreeIndents" value="true" />
-    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="16384" />
     <option name="EDITOR_TAB_LIMIT" value="15" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="518" />

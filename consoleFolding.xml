@@ -2,6 +2,7 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
+        <option value="(com.jonolds.clubhousexml) identical" />
         <option value="/system/framework/com.android.location.provider" />
         <option value="/system/framework/com.android.media.remotedisplay" />
         <option value="0x03:0x4c" />
@@ -214,7 +215,6 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="(com.jonolds.clubhousexml) identical" />
       </list>
     </option>
   </component>
