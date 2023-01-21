@@ -40,6 +40,7 @@
         <option value="BatteryStatsService" />
         <option value="BlockingConnectionAdapter" />
         <option value="BluetoothAdapter" />
+        <option value="Build Config                     : S P 10.0.7 AArch64" />
         <option value="Build Date" />
         <option value="Capturing and displaying logcat messages from application." />
         <option value="CAR." />
@@ -55,6 +56,7 @@
         <option value="ClassLoaderContext classpath size mismatch" />
         <option value="clearPipelineWithNode" />
         <option value="ClosedLoopHceMigrat" />
+        <option value="Compat change id reported:" />
         <option value="CompatibilityChangeReporter: Compat change id reported" />
         <option value="Compiler allocated" />
         <option value="Connected to process" />
@@ -66,6 +68,7 @@
         <option value="createPipelineWithNode" />
         <option value="Current dex file has more than one class in it" />
         <option value="D/mali_winsys" />
+        <option value="Dark? false, OP Force" />
         <option value="Davey!" />
         <option value="Debugger has connected" />
         <option value="debugger has settled" />
@@ -105,11 +108,16 @@
         <option value="hwservicemanager" />
         <option value="I/gralloc" />
         <option value="I/IpcDispatcher" />
+        <option value="I: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so" />
+        <option value="I: PFP: 0x016ee190, ME: 0x00000000" />
+        <option value="I: uid=10736(com.jonolds.clubhousexml) re-initialized&gt; identical 1 line" />
         <option value="Icing" />
         <option value="IInputConnectionWrapper" />
+        <option value="Index 0 requested, with a size of 0" />
         <option value="InputMethodManager" />
         <option value="InputTransport" />
         <option value="Install successfully finished in" />
+        <option value="Installing profile for" />
         <option value="Invalid ID 0x0000" />
         <option value="Invalid ID 0x00000000" />
         <option value="io_stats" />
@@ -165,6 +173,7 @@
         <option value="PowerUI" />
         <option value="Prior agent invocations in this VM" />
         <option value="ProfileInstaller" />
+        <option value="QUALCOMM build" />
         <option value="Reconstruct Branch" />
         <option value="Redefining intrinsic method" />
         <option value="Reducing the number of considered missed Gc histogram windows" />
@@ -180,6 +189,7 @@
         <option value="sec_bat_" />
         <option value="SemWifiApTetheredClientInfo" />
         <option value="Sending WAIT chunk" />
+        <option value="set_timerslack_ns write failed:" />
         <option value="ShortcutsDataManager" />
         <option value="slsi_mlme_get_sinfo_mib" />
         <option value="SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length" />
@@ -189,6 +199,7 @@
         <option value="Startup agent attached" />
         <option value="StudioProfiler" />
         <option value="StudioTransport" />
+        <option value="support adaptive color gamut" />
         <option value="SurfaceControl" />
         <option value="SurfaceFlinger" />
         <option value="swell_mode" />
@@ -200,6 +211,7 @@
         <option value="Telecom" />
         <option value="Telephony" />
         <option value="TetheringManager" />
+        <option value="The specified message queue synchronization  barrier token has not" />
         <option value="uid=10715(com.jonolds.clubhousexml) identical" />
         <option value="Unknown bits set in runtime_flags:" />
         <option value="vdex files!" />
@@ -215,6 +227,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
+        <option value="D: windowFocusChanged hasFocus=true inTouchMode=true" />
       </list>
     </option>
   </component>
