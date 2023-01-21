@@ -4,6 +4,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
   <action id="CollapseBlock" />
+  <action id="GotoClass" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f3" />
     <mouse-shortcut keystroke="control button1" />
@@ -18,6 +19,11 @@
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="ResourceExplorer.show" />
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
