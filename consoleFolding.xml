@@ -68,6 +68,7 @@
         <option value="createPipelineWithNode" />
         <option value="Current dex file has more than one class in it" />
         <option value="D/mali_winsys" />
+        <option value="D: windowFocusChanged hasFocus=true inTouchMode=true" />
         <option value="Dark? false, OP Force" />
         <option value="Davey!" />
         <option value="Debugger has connected" />
@@ -83,6 +84,7 @@
         <option value="efs_buf" />
         <option value="EGLint" />
         <option value="EGLNativeWindowType" />
+        <option value="endAllActiveAnimators on" />
         <option value="EthernetTracker" />
         <option value="ExpandableNotifRow" />
         <option value="FacsCacheGmsModule" />
@@ -224,10 +226,11 @@
         <option value="Watchdog" />
         <option value="wificond" />
         <option value="WifiConnectivityMonitor" />
+        <option value="windowFocusChanged" />
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="D: windowFocusChanged hasFocus=true inTouchMode=true" />
+        <option value="Owner FocusChanged" />
       </list>
     </option>
   </component>
