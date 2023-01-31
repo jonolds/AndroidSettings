@@ -165,6 +165,7 @@
         <option value="OPFD_Manager" />
         <option value="OptJank" />
         <option value="OverScroller: setting mVelocityAccuCount" />
+        <option value="Owner FocusChanged" />
         <option value="Performing LoadStateAndCompose" />
         <option value="PG:" />
         <option value="Phenotype" />
@@ -230,7 +231,6 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="Owner FocusChanged" />
       </list>
     </option>
   </component>
