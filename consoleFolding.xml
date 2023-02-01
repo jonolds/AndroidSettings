@@ -231,6 +231,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
+        <option value="Already have a pending vsync event." />
       </list>
     </option>
   </component>
