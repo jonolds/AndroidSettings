@@ -23,6 +23,7 @@
         <option value="AdrenoGLES-0" />
         <option value="AdrenoGLES-0: QUALCOMM build" />
         <option value="allocator 3.x" />
+        <option value="Already have a pending vsync event." />
         <option value="AODBatteryManager" />
         <option value="AppIconSolution" />
         <option value="ApplicationLoaders" />
@@ -181,12 +182,14 @@
         <option value="Redefining intrinsic method" />
         <option value="Reducing the number of considered missed Gc histogram windows" />
         <option value="RegisterTcmMonitor" />
+        <option value="registerTetheringEventCallback" />
         <option value="Releasing worker:" />
         <option value="Remote Branch" />
         <option value="ro.serialno" />
         <option value="SamsungAlarmManager" />
         <option value="SAProfile" />
         <option value="SAPROFILE" />
+        <option value="Scheduling upload for context" />
         <option value="SDHMS" />
         <option value="SearchServiceCore" />
         <option value="sec_bat_" />
@@ -200,6 +203,7 @@
         <option value="SQLiteEventStore" />
         <option value="ssioncontrolle" />
         <option value="Startup agent attached" />
+        <option value="Storing event with priority=" />
         <option value="StudioProfiler" />
         <option value="StudioTransport" />
         <option value="support adaptive color gamut" />
@@ -217,6 +221,7 @@
         <option value="The specified message queue synchronization  barrier token has not" />
         <option value="uid=10715(com.jonolds.clubhousexml) identical" />
         <option value="Unknown bits set in runtime_flags:" />
+        <option value="Upload for context" />
         <option value="vdex files!" />
         <option value="ViewRootImpl" />
         <option value="WaitForGcToComplete" />
@@ -231,7 +236,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="Already have a pending vsync event." />
+        <option value="ONEPLUS_NAME_PARTS_MATCH" />
       </list>
     </option>
   </component>
