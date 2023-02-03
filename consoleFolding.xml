@@ -67,6 +67,7 @@
         <option value="ContactsProvider_EventLog" />
         <option value="createDecorCaptionView" />
         <option value="createPipelineWithNode" />
+        <option value="Creating new ChildProcessService" />
         <option value="Current dex file has more than one class in it" />
         <option value="D/mali_winsys" />
         <option value="D: windowFocusChanged hasFocus=true inTouchMode=true" />
@@ -97,6 +98,7 @@
         <option value="Found duplicate classes, falling back" />
         <option value="Found duplicated class when checking oat files" />
         <option value="fsgid=" />
+        <option value="Gesture Screenshot Enabled = false" />
         <option value="getUsedF2fsFileNode" />
         <option value="GmsCoreXrpcWrapper" />
         <option value="GoogleInputMethodService" />
@@ -126,16 +128,22 @@
         <option value="io_stats" />
         <option value="IpcDispatcher" />
         <option value="is in boot class path but is not in a known location" />
+        <option value="Isolated process" />
+        <option value="isQuickReplyIMApp" />
+        <option value="isQuickReplyIMEApp" />
         <option value="Issue the next TakePictureRequest" />
         <option value="JobInfoScheduler" />
         <option value="kworker/" />
         <option value="LanguageModel" />
         <option value="Late-enabling -Xcheck:jni" />
+        <option value="Launched version" />
         <option value="lcd_off_T" />
         <option value="legacyui" />
         <option value="libEGL" />
         <option value="libprocessgroup" />
+        <option value="Loaded version=" />
         <option value="LoadedApk" />
+        <option value="Loading com.google.android.webview" />
         <option value="Local Branch" />
         <option value="LocationManagerService" />
         <option value="mapper 3.x" />
@@ -155,10 +163,12 @@
         <option value="No carrier app for:" />
         <option value="No existing instrumentation found. Loading instrumentation" />
         <option value="No Network Security Config specified" />
+        <option value="No service published for" />
         <option value="NOTE: This wastes RAM and hurts startup performance" />
         <option value="NotificationHistory" />
         <option value="NotificationListener" />
         <option value="on OnePlus ONEPLUS A6013." />
+        <option value="ONEPLUS_NAME_PARTS_MATCH" />
         <option value="OnePlusFontConfig" />
         <option value="Open /data/app/~~" />
         <option value="OpenGL ES Shader" />
@@ -181,6 +191,7 @@
         <option value="Reconstruct Branch" />
         <option value="Redefining intrinsic method" />
         <option value="Reducing the number of considered missed Gc histogram windows" />
+        <option value="registerBluetoothIntentsIfNeeded" />
         <option value="RegisterTcmMonitor" />
         <option value="registerTetheringEventCallback" />
         <option value="Releasing worker:" />
@@ -206,6 +217,7 @@
         <option value="Storing event with priority=" />
         <option value="StudioProfiler" />
         <option value="StudioTransport" />
+        <option value="Successfully loaded native library" />
         <option value="support adaptive color gamut" />
         <option value="SurfaceControl" />
         <option value="SurfaceFlinger" />
@@ -219,6 +231,7 @@
         <option value="Telephony" />
         <option value="TetheringManager" />
         <option value="The specified message queue synchronization  barrier token has not" />
+        <option value="trichromelibrary" />
         <option value="uid=10715(com.jonolds.clubhousexml) identical" />
         <option value="Unknown bits set in runtime_flags:" />
         <option value="Upload for context" />
@@ -236,7 +249,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="ONEPLUS_NAME_PARTS_MATCH" />
+        <option value="samples from" />
       </list>
     </option>
   </component>
