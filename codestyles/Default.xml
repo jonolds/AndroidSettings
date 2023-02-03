@@ -24,9 +24,6 @@
       </value>
     </option>
   </AndroidXmlCodeStyleSettings>
-  <ComposeCustomCodeStyleSettings>
-    <option name="USE_CUSTOM_FORMATTING_FOR_MODIFIERS" value="false" />
-  </ComposeCustomCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="true">
       <option name="KEYWORD_CASE" value="lower" />
@@ -550,7 +547,6 @@
   <codeStyleSettings language="kotlin">
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
     <option name="RIGHT_MARGIN" value="140" />
-    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="3" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />

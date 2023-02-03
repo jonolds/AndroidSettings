@@ -10,6 +10,7 @@
     <notification groupId="Emulator" shouldLog="false" />
     <notification groupId="Error Report" />
     <notification groupId="Gradle Build (Balloon)" shouldLog="false" />
+    <notification groupId="Gradle Build (Logging)" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="JDK Location different to JAVA_HOME" displayType="NONE" shouldLog="false" />
     <notification groupId="LaunchTaskRunner for Run" displayType="TOOL_WINDOW" shouldLog="false" />

@@ -23,6 +23,7 @@
         <option value="AdrenoGLES-0" />
         <option value="AdrenoGLES-0: QUALCOMM build" />
         <option value="allocator 3.x" />
+        <option value="Already have a pending vsync event." />
         <option value="AODBatteryManager" />
         <option value="AppIconSolution" />
         <option value="ApplicationLoaders" />
@@ -40,6 +41,7 @@
         <option value="BatteryStatsService" />
         <option value="BlockingConnectionAdapter" />
         <option value="BluetoothAdapter" />
+        <option value="Build Config                     : S P 10.0.7 AArch64" />
         <option value="Build Date" />
         <option value="Capturing and displaying logcat messages from application." />
         <option value="CAR." />
@@ -55,6 +57,7 @@
         <option value="ClassLoaderContext classpath size mismatch" />
         <option value="clearPipelineWithNode" />
         <option value="ClosedLoopHceMigrat" />
+        <option value="Compat change id reported:" />
         <option value="CompatibilityChangeReporter: Compat change id reported" />
         <option value="Compiler allocated" />
         <option value="Connected to process" />
@@ -64,8 +67,11 @@
         <option value="ContactsProvider_EventLog" />
         <option value="createDecorCaptionView" />
         <option value="createPipelineWithNode" />
+        <option value="Creating new ChildProcessService" />
         <option value="Current dex file has more than one class in it" />
         <option value="D/mali_winsys" />
+        <option value="D: windowFocusChanged hasFocus=true inTouchMode=true" />
+        <option value="Dark? false, OP Force" />
         <option value="Davey!" />
         <option value="Debugger has connected" />
         <option value="debugger has settled" />
@@ -80,6 +86,7 @@
         <option value="efs_buf" />
         <option value="EGLint" />
         <option value="EGLNativeWindowType" />
+        <option value="endAllActiveAnimators on" />
         <option value="EthernetTracker" />
         <option value="ExpandableNotifRow" />
         <option value="FacsCacheGmsModule" />
@@ -91,6 +98,7 @@
         <option value="Found duplicate classes, falling back" />
         <option value="Found duplicated class when checking oat files" />
         <option value="fsgid=" />
+        <option value="Gesture Screenshot Enabled = false" />
         <option value="getUsedF2fsFileNode" />
         <option value="GmsCoreXrpcWrapper" />
         <option value="GoogleInputMethodService" />
@@ -105,26 +113,37 @@
         <option value="hwservicemanager" />
         <option value="I/gralloc" />
         <option value="I/IpcDispatcher" />
+        <option value="I: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so" />
+        <option value="I: PFP: 0x016ee190, ME: 0x00000000" />
+        <option value="I: uid=10736(com.jonolds.clubhousexml) re-initialized&gt; identical 1 line" />
         <option value="Icing" />
         <option value="IInputConnectionWrapper" />
+        <option value="Index 0 requested, with a size of 0" />
         <option value="InputMethodManager" />
         <option value="InputTransport" />
         <option value="Install successfully finished in" />
+        <option value="Installing profile for" />
         <option value="Invalid ID 0x0000" />
         <option value="Invalid ID 0x00000000" />
         <option value="io_stats" />
         <option value="IpcDispatcher" />
         <option value="is in boot class path but is not in a known location" />
+        <option value="Isolated process" />
+        <option value="isQuickReplyIMApp" />
+        <option value="isQuickReplyIMEApp" />
         <option value="Issue the next TakePictureRequest" />
         <option value="JobInfoScheduler" />
         <option value="kworker/" />
         <option value="LanguageModel" />
         <option value="Late-enabling -Xcheck:jni" />
+        <option value="Launched version" />
         <option value="lcd_off_T" />
         <option value="legacyui" />
         <option value="libEGL" />
         <option value="libprocessgroup" />
+        <option value="Loaded version=" />
         <option value="LoadedApk" />
+        <option value="Loading com.google.android.webview" />
         <option value="Local Branch" />
         <option value="LocationManagerService" />
         <option value="mapper 3.x" />
@@ -144,10 +163,12 @@
         <option value="No carrier app for:" />
         <option value="No existing instrumentation found. Loading instrumentation" />
         <option value="No Network Security Config specified" />
+        <option value="No service published for" />
         <option value="NOTE: This wastes RAM and hurts startup performance" />
         <option value="NotificationHistory" />
         <option value="NotificationListener" />
         <option value="on OnePlus ONEPLUS A6013." />
+        <option value="ONEPLUS_NAME_PARTS_MATCH" />
         <option value="OnePlusFontConfig" />
         <option value="Open /data/app/~~" />
         <option value="OpenGL ES Shader" />
@@ -155,6 +176,7 @@
         <option value="OPFD_Manager" />
         <option value="OptJank" />
         <option value="OverScroller: setting mVelocityAccuCount" />
+        <option value="Owner FocusChanged" />
         <option value="Performing LoadStateAndCompose" />
         <option value="PG:" />
         <option value="Phenotype" />
@@ -165,21 +187,26 @@
         <option value="PowerUI" />
         <option value="Prior agent invocations in this VM" />
         <option value="ProfileInstaller" />
+        <option value="QUALCOMM build" />
         <option value="Reconstruct Branch" />
         <option value="Redefining intrinsic method" />
         <option value="Reducing the number of considered missed Gc histogram windows" />
+        <option value="registerBluetoothIntentsIfNeeded" />
         <option value="RegisterTcmMonitor" />
+        <option value="registerTetheringEventCallback" />
         <option value="Releasing worker:" />
         <option value="Remote Branch" />
         <option value="ro.serialno" />
         <option value="SamsungAlarmManager" />
         <option value="SAProfile" />
         <option value="SAPROFILE" />
+        <option value="Scheduling upload for context" />
         <option value="SDHMS" />
         <option value="SearchServiceCore" />
         <option value="sec_bat_" />
         <option value="SemWifiApTetheredClientInfo" />
         <option value="Sending WAIT chunk" />
+        <option value="set_timerslack_ns write failed:" />
         <option value="ShortcutsDataManager" />
         <option value="slsi_mlme_get_sinfo_mib" />
         <option value="SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length" />
@@ -187,8 +214,11 @@
         <option value="SQLiteEventStore" />
         <option value="ssioncontrolle" />
         <option value="Startup agent attached" />
+        <option value="Storing event with priority=" />
         <option value="StudioProfiler" />
         <option value="StudioTransport" />
+        <option value="Successfully loaded native library" />
+        <option value="support adaptive color gamut" />
         <option value="SurfaceControl" />
         <option value="SurfaceFlinger" />
         <option value="swell_mode" />
@@ -200,8 +230,11 @@
         <option value="Telecom" />
         <option value="Telephony" />
         <option value="TetheringManager" />
+        <option value="The specified message queue synchronization  barrier token has not" />
+        <option value="trichromelibrary" />
         <option value="uid=10715(com.jonolds.clubhousexml) identical" />
         <option value="Unknown bits set in runtime_flags:" />
+        <option value="Upload for context" />
         <option value="vdex files!" />
         <option value="ViewRootImpl" />
         <option value="WaitForGcToComplete" />
@@ -212,9 +245,11 @@
         <option value="Watchdog" />
         <option value="wificond" />
         <option value="WifiConnectivityMonitor" />
+        <option value="windowFocusChanged" />
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
+        <option value="samples from" />
       </list>
     </option>
   </component>
