@@ -90,6 +90,7 @@
         <option value="EthernetTracker" />
         <option value="ExpandableNotifRow" />
         <option value="FacsCacheGmsModule" />
+        <option value="FinalizerDaemon" />
         <option value="Finished instrumenting" />
         <option value="Finsky" />
         <option value="Flattened final assist data:" />
@@ -197,6 +198,7 @@
         <option value="Releasing worker:" />
         <option value="Remote Branch" />
         <option value="ro.serialno" />
+        <option value="samples from" />
         <option value="SamsungAlarmManager" />
         <option value="SAProfile" />
         <option value="SAPROFILE" />
@@ -249,7 +251,6 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="samples from" />
       </list>
     </option>
   </component>
