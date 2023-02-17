@@ -78,6 +78,7 @@
         <option value="DecorView" />
         <option value="Device Level: INFO_SUPPORTED_HARDWARE_LEVEL_FULL" />
         <option value="Device Level: INFO_SUPPORTED_HARDWARE_LEVEL_LIMITED" />
+        <option value="DeviceManager" />
         <option value="DeviceManager_FLP" />
         <option value="DeviceStorageMonitorService" />
         <option value="display: HWC" />
@@ -119,6 +120,7 @@
         <option value="I: uid=10736(com.jonolds.clubhousexml) re-initialized&gt; identical 1 line" />
         <option value="Icing" />
         <option value="IInputConnectionWrapper" />
+        <option value="ImageMetadata" />
         <option value="Index 0 requested, with a size of 0" />
         <option value="InputMethodManager" />
         <option value="InputTransport" />
@@ -150,9 +152,13 @@
         <option value="mapper 3.x" />
         <option value="mapper 4.x" />
         <option value="MdiSyncModule" />
+        <option value="mediapipe" />
         <option value="memfd:" />
         <option value="MicroDetectionState" />
+        <option value="mlkit.dynamite." />
+        <option value="mobile_langid_" />
         <option value="MotionRecognitionService" />
+        <option value="multi_pass_" />
         <option value="NativeAlloc concurrent copying GC freed" />
         <option value="NearbyDiscovery" />
         <option value="Netd" />
@@ -168,6 +174,7 @@
         <option value="NOTE: This wastes RAM and hurts startup performance" />
         <option value="NotificationHistory" />
         <option value="NotificationListener" />
+        <option value="ocr_segm" />
         <option value="on OnePlus ONEPLUS A6013." />
         <option value="ONEPLUS_NAME_PARTS_MATCH" />
         <option value="OnePlusFontConfig" />
@@ -188,6 +195,7 @@
         <option value="PowerUI" />
         <option value="Prior agent invocations in this VM" />
         <option value="ProfileInstaller" />
+        <option value="qti-" />
         <option value="QUALCOMM build" />
         <option value="Reconstruct Branch" />
         <option value="Redefining intrinsic method" />
@@ -197,6 +205,7 @@
         <option value="registerTetheringEventCallback" />
         <option value="Releasing worker:" />
         <option value="Remote Branch" />
+        <option value="ro.hardware.chipname" />
         <option value="ro.serialno" />
         <option value="samples from" />
         <option value="SamsungAlarmManager" />
@@ -231,7 +240,12 @@
         <option value="tb_ctl" />
         <option value="Telecom" />
         <option value="Telephony" />
+        <option value="TensorFlow" />
         <option value="TetheringManager" />
+        <option value="text_classifier" />
+        <option value="text_detector_thread_pool_context" />
+        <option value="tflite" />
+        <option value="TfLiteXNNPackDelegate" />
         <option value="The specified message queue synchronization  barrier token has not" />
         <option value="trichromelibrary" />
         <option value="uid=10715(com.jonolds.clubhousexml) identical" />
@@ -251,6 +265,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
+        <option value="findAvailableDevices" />
       </list>
     </option>
   </component>
