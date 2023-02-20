@@ -92,6 +92,7 @@
         <option value="ExpandableNotifRow" />
         <option value="FacsCacheGmsModule" />
         <option value="FinalizerDaemon" />
+        <option value="findAvailableDevices" />
         <option value="Finished instrumenting" />
         <option value="Finsky" />
         <option value="Flattened final assist data:" />
@@ -265,7 +266,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="findAvailableDevices" />
+        <option value="CctTransportBackend" />
       </list>
     </option>
   </component>
