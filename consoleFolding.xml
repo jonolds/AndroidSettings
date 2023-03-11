@@ -45,6 +45,7 @@
         <option value="Build Date" />
         <option value="Capturing and displaying logcat messages from application." />
         <option value="CAR." />
+        <option value="CctTransportBackend" />
         <option value="charger-&gt;cable_type" />
         <option value="ChargingInfoManager" />
         <option value="Checking for metadata for AppLocalesMetadataHolderService" />
@@ -266,7 +267,7 @@
         <option value="WorkerManager" />
         <option value="wpa_supplicant" />
         <option value="Zygote" />
-        <option value="CctTransportBackend" />
+        <option value="BpBinder" />
       </list>
     </option>
   </component>
